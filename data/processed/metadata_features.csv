@@ -1,0 +1,1001 @@
+path,source_file,kalimat,product,quantity,tipe,speaker,intent,path_abs,feat_path,duration,n_frames,split,id,feature_path,frames
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_001.mp3,synt_001.wav,catat 1 gula,gula,1.0,synt,tts_google,add_item,,,1.44,,,0,data\features\0.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_002.mp3,synt_002.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,1,data\features\1.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_003.mp3,synt_003.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.472,,,2,data\features\2.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_004.mp3,synt_004.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.312,,,3,data\features\3.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_005.mp3,synt_005.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.408,,,4,data\features\4.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_006.mp3,synt_006.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.408,,,5,data\features\5.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_007.mp3,synt_007.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.6,,,6,data\features\6.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_008.mp3,synt_008.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.472,,,7,data\features\7.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_009.mp3,synt_009.wav,catat 4 teh,teh,4.0,synt,tts_google,add_item,,,1.408,,,8,data\features\8.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_010.mp3,synt_010.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.248,,,9,data\features\9.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_011.mp3,synt_011.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,1.952,,,10,data\features\10.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_012.mp3,synt_012.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.952,,,11,data\features\11.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_013.mp3,synt_013.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,12,data\features\12.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_014.mp3,synt_014.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.504,,,13,data\features\13.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_015.mp3,synt_015.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.408,,,14,data\features\14.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_016.mp3,synt_016.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.408,,,15,data\features\15.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_017.mp3,synt_017.wav,catat 1 gula,gula,1.0,synt,tts_google,add_item,,,1.44,,,16,data\features\16.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_018.mp3,synt_018.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.376,,,17,data\features\17.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_019.mp3,synt_019.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.44,,,18,data\features\18.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_020.mp3,synt_020.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.472,,,19,data\features\19.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_021.mp3,synt_021.wav,catat 3 gula,gula,3.0,synt,tts_google,add_item,,,1.376,,,20,data\features\20.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_022.mp3,synt_022.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.472,,,21,data\features\21.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_023.mp3,synt_023.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.504,,,22,data\features\22.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_024.mp3,synt_024.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,23,data\features\23.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_025.mp3,synt_025.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.44,,,24,data\features\24.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_026.mp3,synt_026.wav,catat 5 sabun,sabun,5.0,synt,tts_google,add_item,,,1.6,,,25,data\features\25.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_027.mp3,synt_027.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,26,data\features\26.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_028.mp3,synt_028.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.6,,,27,data\features\27.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_029.mp3,synt_029.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.472,,,28,data\features\28.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_030.mp3,synt_030.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.6,,,29,data\features\29.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_031.mp3,synt_031.wav,catat 4 teh,teh,4.0,synt,tts_google,add_item,,,1.408,,,30,data\features\30.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_032.mp3,synt_032.wav,catat 5 minyak,minyak,5.0,synt,tts_google,add_item,,,1.408,,,31,data\features\31.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_033.mp3,synt_033.wav,catat 2 sabun,sabun,2.0,synt,tts_google,add_item,,,1.536,,,32,data\features\32.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_034.mp3,synt_034.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,1.632,,,33,data\features\33.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_035.mp3,synt_035.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.472,,,34,data\features\34.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_036.mp3,synt_036.wav,catat 2 gula,gula,2.0,synt,tts_google,add_item,,,1.344,,,35,data\features\35.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_037.mp3,synt_037.wav,catat 5 susu,susu,5.0,synt,tts_google,add_item,,,1.504,,,36,data\features\36.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_038.mp3,synt_038.wav,catat 5 susu,susu,5.0,synt,tts_google,add_item,,,1.504,,,37,data\features\37.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_039.mp3,synt_039.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.44,,,38,data\features\38.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_040.mp3,synt_040.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.472,,,39,data\features\39.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_041.mp3,synt_041.wav,catat 3 mie,mie,3.0,synt,tts_google,add_item,,,1.312,,,40,data\features\40.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_042.mp3,synt_042.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,2.016,,,41,data\features\41.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_043.mp3,synt_043.wav,catat 3 kopi,kopi,3.0,synt,tts_google,add_item,,,1.504,,,42,data\features\42.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_044.mp3,synt_044.wav,catat 2 beras,beras,2.0,synt,tts_google,add_item,,,1.376,,,43,data\features\43.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_045.mp3,synt_045.wav,catat 5 minyak,minyak,5.0,synt,tts_google,add_item,,,1.408,,,44,data\features\44.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_046.mp3,synt_046.wav,catat 3 minyak,minyak,3.0,synt,tts_google,add_item,,,1.408,,,45,data\features\45.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_047.mp3,synt_047.wav,catat 4 gula,gula,4.0,synt,tts_google,add_item,,,1.44,,,46,data\features\46.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_048.mp3,synt_048.wav,catat 2 teh,teh,2.0,synt,tts_google,add_item,,,1.312,,,47,data\features\47.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_049.mp3,synt_049.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,48,data\features\48.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_050.mp3,synt_050.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,49,data\features\49.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_051.mp3,synt_051.wav,catat 3 susu,susu,3.0,synt,tts_google,add_item,,,1.504,,,50,data\features\50.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_052.mp3,synt_052.wav,catat 3 susu,susu,3.0,synt,tts_google,add_item,,,1.504,,,51,data\features\51.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_053.mp3,synt_053.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,1.952,,,52,data\features\52.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_054.mp3,synt_054.wav,catat 4 sabun,sabun,4.0,synt,tts_google,add_item,,,1.632,,,53,data\features\53.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_055.mp3,synt_055.wav,catat 5 sabun,sabun,5.0,synt,tts_google,add_item,,,1.6,,,54,data\features\54.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_056.mp3,synt_056.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.376,,,55,data\features\55.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_057.mp3,synt_057.wav,catat 5 mie,mie,5.0,synt,tts_google,add_item,,,1.28,,,56,data\features\56.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_058.mp3,synt_058.wav,catat 2 susu,susu,2.0,synt,tts_google,add_item,,,1.472,,,57,data\features\57.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_059.mp3,synt_059.wav,catat 2 beras,beras,2.0,synt,tts_google,add_item,,,1.376,,,58,data\features\58.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_060.mp3,synt_060.wav,catat 5 susu,susu,5.0,synt,tts_google,add_item,,,1.504,,,59,data\features\59.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_061.mp3,synt_061.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,60,data\features\60.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_062.mp3,synt_062.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.44,,,61,data\features\61.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_063.mp3,synt_063.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,2.016,,,62,data\features\62.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_064.mp3,synt_064.wav,catat 3 minyak,minyak,3.0,synt,tts_google,add_item,,,1.408,,,63,data\features\63.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_065.mp3,synt_065.wav,catat 3 mie,mie,3.0,synt,tts_google,add_item,,,1.312,,,64,data\features\64.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_066.mp3,synt_066.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,1.504,,,65,data\features\65.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_067.mp3,synt_067.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.376,,,66,data\features\66.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_068.mp3,synt_068.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.888,,,67,data\features\67.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_069.mp3,synt_069.wav,catat 5 sabun,sabun,5.0,synt,tts_google,add_item,,,1.6,,,68,data\features\68.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_070.mp3,synt_070.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.536,,,69,data\features\69.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_071.mp3,synt_071.wav,catat 3 susu,susu,3.0,synt,tts_google,add_item,,,1.504,,,70,data\features\70.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_072.mp3,synt_072.wav,catat 2 teh,teh,2.0,synt,tts_google,add_item,,,1.312,,,71,data\features\71.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_073.mp3,synt_073.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,1.504,,,72,data\features\72.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_074.mp3,synt_074.wav,catat 3 susu,susu,3.0,synt,tts_google,add_item,,,1.504,,,73,data\features\73.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_075.mp3,synt_075.wav,catat 1 beras,beras,1.0,synt,tts_google,add_item,,,1.504,,,74,data\features\74.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_076.mp3,synt_076.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,75,data\features\75.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_077.mp3,synt_077.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.536,,,76,data\features\76.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_078.mp3,synt_078.wav,catat 1 kopi,kopi,1.0,synt,tts_google,add_item,,,1.536,,,77,data\features\77.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_079.mp3,synt_079.wav,catat 4 teh,teh,4.0,synt,tts_google,add_item,,,1.408,,,78,data\features\78.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_080.mp3,synt_080.wav,catat 4 mie,mie,4.0,synt,tts_google,add_item,,,1.344,,,79,data\features\79.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_081.mp3,synt_081.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,2.016,,,80,data\features\80.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_082.mp3,synt_082.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,1.44,,,81,data\features\81.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_083.mp3,synt_083.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.536,,,82,data\features\82.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_084.mp3,synt_084.wav,catat 5 mie,mie,5.0,synt,tts_google,add_item,,,1.28,,,83,data\features\83.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_085.mp3,synt_085.wav,catat 5 minyak,minyak,5.0,synt,tts_google,add_item,,,1.408,,,84,data\features\84.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_086.mp3,synt_086.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,1.536,,,85,data\features\85.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_087.mp3,synt_087.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.248,,,86,data\features\86.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_088.mp3,synt_088.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.44,,,87,data\features\87.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_089.mp3,synt_089.wav,catat 2 susu,susu,2.0,synt,tts_google,add_item,,,1.472,,,88,data\features\88.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_090.mp3,synt_090.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.504,,,89,data\features\89.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_091.mp3,synt_091.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,2.016,,,90,data\features\90.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_092.mp3,synt_092.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,1.632,,,91,data\features\91.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_093.mp3,synt_093.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.888,,,92,data\features\92.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_094.mp3,synt_094.wav,catat 3 kopi,kopi,3.0,synt,tts_google,add_item,,,1.504,,,93,data\features\93.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_095.mp3,synt_095.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.536,,,94,data\features\94.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_096.mp3,synt_096.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.888,,,95,data\features\95.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_097.mp3,synt_097.wav,catat 2 susu,susu,2.0,synt,tts_google,add_item,,,1.472,,,96,data\features\96.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_098.mp3,synt_098.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.952,,,97,data\features\97.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_099.mp3,synt_099.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.504,,,98,data\features\98.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_100.mp3,synt_100.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,99,data\features\99.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_101.mp3,synt_101.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,1.536,,,100,data\features\100.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_102.mp3,synt_102.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.408,,,101,data\features\101.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_103.mp3,synt_103.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,2.016,,,102,data\features\102.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_104.mp3,synt_104.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,1.44,,,103,data\features\103.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_105.mp3,synt_105.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,2.016,,,104,data\features\104.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_106.mp3,synt_106.wav,catat 5 sabun,sabun,5.0,synt,tts_google,add_item,,,1.6,,,105,data\features\105.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_107.mp3,synt_107.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.952,,,106,data\features\106.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_108.mp3,synt_108.wav,catat 5 minyak,minyak,5.0,synt,tts_google,add_item,,,1.408,,,107,data\features\107.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_109.mp3,synt_109.wav,catat 4 telur,telur,4.0,synt,tts_google,add_item,,,1.472,,,108,data\features\108.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_110.mp3,synt_110.wav,catat 1 kopi,kopi,1.0,synt,tts_google,add_item,,,1.536,,,109,data\features\109.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_111.mp3,synt_111.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.248,,,110,data\features\110.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_112.mp3,synt_112.wav,catat 5 mie,mie,5.0,synt,tts_google,add_item,,,1.28,,,111,data\features\111.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_113.mp3,synt_113.wav,catat 3 susu,susu,3.0,synt,tts_google,add_item,,,1.504,,,112,data\features\112.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_114.mp3,synt_114.wav,catat 4 telur,telur,4.0,synt,tts_google,add_item,,,1.472,,,113,data\features\113.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_115.mp3,synt_115.wav,catat 3 minyak,minyak,3.0,synt,tts_google,add_item,,,1.408,,,114,data\features\114.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_116.mp3,synt_116.wav,catat 4 teh,teh,4.0,synt,tts_google,add_item,,,1.408,,,115,data\features\115.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_117.mp3,synt_117.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,1.536,,,116,data\features\116.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_118.mp3,synt_118.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.312,,,117,data\features\117.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_119.mp3,synt_119.wav,catat 5 susu,susu,5.0,synt,tts_google,add_item,,,1.504,,,118,data\features\118.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_120.mp3,synt_120.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.408,,,119,data\features\119.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_121.mp3,synt_121.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.376,,,120,data\features\120.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_122.mp3,synt_122.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,1.536,,,121,data\features\121.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_123.mp3,synt_123.wav,catat 5 susu,susu,5.0,synt,tts_google,add_item,,,1.504,,,122,data\features\122.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_124.mp3,synt_124.wav,catat 2 sabun,sabun,2.0,synt,tts_google,add_item,,,1.536,,,123,data\features\123.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_125.mp3,synt_125.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,1.632,,,124,data\features\124.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_126.mp3,synt_126.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.376,,,125,data\features\125.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_127.mp3,synt_127.wav,catat 3 minyak,minyak,3.0,synt,tts_google,add_item,,,1.408,,,126,data\features\126.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_128.mp3,synt_128.wav,catat 1 beras,beras,1.0,synt,tts_google,add_item,,,1.504,,,127,data\features\127.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_129.mp3,synt_129.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.248,,,128,data\features\128.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_130.mp3,synt_130.wav,catat 2 teh,teh,2.0,synt,tts_google,add_item,,,1.312,,,129,data\features\129.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_131.mp3,synt_131.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.536,,,130,data\features\130.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_132.mp3,synt_132.wav,catat 5 minyak,minyak,5.0,synt,tts_google,add_item,,,1.408,,,131,data\features\131.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_133.mp3,synt_133.wav,catat 3 minyak,minyak,3.0,synt,tts_google,add_item,,,1.408,,,132,data\features\132.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_134.mp3,synt_134.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.472,,,133,data\features\133.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_135.mp3,synt_135.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.44,,,134,data\features\134.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_136.mp3,synt_136.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.44,,,135,data\features\135.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_137.mp3,synt_137.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,2.016,,,136,data\features\136.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_138.mp3,synt_138.wav,catat 1 beras,beras,1.0,synt,tts_google,add_item,,,1.504,,,137,data\features\137.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_139.mp3,synt_139.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.248,,,138,data\features\138.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_140.mp3,synt_140.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.248,,,139,data\features\139.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_141.mp3,synt_141.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,2.016,,,140,data\features\140.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_142.mp3,synt_142.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,141,data\features\141.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_143.mp3,synt_143.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.312,,,142,data\features\142.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_144.mp3,synt_144.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.408,,,143,data\features\143.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_145.mp3,synt_145.wav,catat 3 mie,mie,3.0,synt,tts_google,add_item,,,1.312,,,144,data\features\144.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_146.mp3,synt_146.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.504,,,145,data\features\145.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_147.mp3,synt_147.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.312,,,146,data\features\146.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_148.mp3,synt_148.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.408,,,147,data\features\147.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_149.mp3,synt_149.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.44,,,148,data\features\148.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_150.mp3,synt_150.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.472,,,149,data\features\149.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_151.wav,synt_151.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.472,,,150,data\features\150.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_152.wav,synt_152.wav,catat 4 susu,susu,4.0,synt,tts_google,add_item,,,1.12,,,151,data\features\151.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_153.wav,synt_153.wav,catat 5 sabun,sabun,5.0,synt,tts_google,add_item,,,1.6,,,152,data\features\152.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_154.wav,synt_154.wav,catat 3 mie,mie,3.0,synt,tts_google,add_item,,,0.864,,,153,data\features\153.npy,55
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_155.wav,synt_155.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.6,,,154,data\features\154.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_156.wav,synt_156.wav,catat 3 minyak,minyak,3.0,synt,tts_google,add_item,,,1.28,,,155,data\features\155.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_157.wav,synt_157.wav,catat 2 sabun,sabun,2.0,synt,tts_google,add_item,,,1.248,,,156,data\features\156.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_158.wav,synt_158.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,1.088,,,157,data\features\157.npy,69
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_159.wav,synt_159.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.376,,,158,data\features\158.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_160.wav,synt_160.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.248,,,159,data\features\159.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_161.wav,synt_161.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.152,,,160,data\features\160.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_162.wav,synt_162.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,1.472,,,161,data\features\161.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_163.wav,synt_163.wav,catat 5 minyak,minyak,5.0,synt,tts_google,add_item,,,1.152,,,162,data\features\162.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_164.wav,synt_164.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.472,,,163,data\features\163.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_165.wav,synt_165.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,0.832,,,164,data\features\164.npy,53
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_166.wav,synt_166.wav,catat 2 beras,beras,2.0,synt,tts_google,add_item,,,1.088,,,165,data\features\165.npy,69
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_167.wav,synt_167.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,1.184,,,166,data\features\166.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_168.wav,synt_168.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.50925,,,167,data\features\167.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_169.wav,synt_169.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,1.6,,,168,data\features\168.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_170.wav,synt_170.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,1.152,,,169,data\features\169.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_171.wav,synt_171.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.952,,,170,data\features\170.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_172.wav,synt_172.wav,catat 1 kopi,kopi,1.0,synt,tts_google,add_item,,,1.312,,,171,data\features\171.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_173.wav,synt_173.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.12,,,172,data\features\172.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_174.wav,synt_174.wav,catat 4 minyak,minyak,4.0,synt,tts_google,add_item,,,1.056,,,173,data\features\173.npy,67
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_175.wav,synt_175.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.1638125,,,174,data\features\174.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_176.wav,synt_176.wav,catat 5 susu,susu,5.0,synt,tts_google,add_item,,,1.216,,,175,data\features\175.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_177.wav,synt_177.wav,catat 4 susu,susu,4.0,synt,tts_google,add_item,,,1.152,,,176,data\features\176.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_178.wav,synt_178.wav,catat 5 susu,susu,5.0,synt,tts_google,add_item,,,1.41325,,,177,data\features\177.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_179.wav,synt_179.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,1.504,,,178,data\features\178.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_180.wav,synt_180.wav,catat 4 mie,mie,4.0,synt,tts_google,add_item,,,1.366875,,,179,data\features\179.npy,86
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_181.wav,synt_181.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.12,,,180,data\features\180.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_182.wav,synt_182.wav,catat 4 telur,telur,4.0,synt,tts_google,add_item,,,1.024,,,181,data\features\181.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_183.wav,synt_183.wav,catat 3 kopi,kopi,3.0,synt,tts_google,add_item,,,0.992,,,182,data\features\182.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_184.wav,synt_184.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.152,,,183,data\features\183.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_185.wav,synt_185.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.216,,,184,data\features\184.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_186.wav,synt_186.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.184,,,185,data\features\185.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_187.wav,synt_187.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.504,,,186,data\features\186.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_188.wav,synt_188.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.216,,,187,data\features\187.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_189.wav,synt_189.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,2.0140625,,,188,data\features\188.npy,126
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_190.wav,synt_190.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.408,,,189,data\features\189.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_191.wav,synt_191.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.366875,,,190,data\features\190.npy,86
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_192.wav,synt_192.wav,catat 2 susu,susu,2.0,synt,tts_google,add_item,,,1.568,,,191,data\features\191.npy,99
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_193.wav,synt_193.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,1.056,,,192,data\features\192.npy,67
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_194.wav,synt_194.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.0475625,,,193,data\features\193.npy,66
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_195.wav,synt_195.wav,catat 4 gula,gula,4.0,synt,tts_google,add_item,,,1.248,,,194,data\features\194.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_196.wav,synt_196.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,2.24,,,195,data\features\195.npy,141
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_197.wav,synt_197.wav,catat 5 minyak,minyak,5.0,synt,tts_google,add_item,,,0.992,,,196,data\features\196.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_198.wav,synt_198.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,1.12,,,197,data\features\197.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_199.wav,synt_199.wav,catat 4 sabun,sabun,4.0,synt,tts_google,add_item,,,1.632,,,198,data\features\198.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_200.wav,synt_200.wav,catat 4 kopi,kopi,4.0,synt,tts_google,add_item,,,0.864,,,199,data\features\199.npy,55
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_201.wav,synt_201.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,2.528,,,200,data\features\200.npy,159
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_202.wav,synt_202.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.504,,,201,data\features\201.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_203.wav,synt_203.wav,catat 2 susu,susu,2.0,synt,tts_google,add_item,,,1.632,,,202,data\features\202.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_204.wav,synt_204.wav,catat 4 telur,telur,4.0,synt,tts_google,add_item,,,1.4975,,,203,data\features\203.npy,94
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_205.wav,synt_205.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,1.12,,,204,data\features\204.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_206.wav,synt_206.wav,catat 3 mie,mie,3.0,synt,tts_google,add_item,,,1.184,,,205,data\features\205.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_207.wav,synt_207.wav,catat 4 kopi,kopi,4.0,synt,tts_google,add_item,,,1.242125,,,206,data\features\206.npy,78
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_208.wav,synt_208.wav,catat 2 susu,susu,2.0,synt,tts_google,add_item,,,1.152,,,207,data\features\207.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_209.wav,synt_209.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.344,,,208,data\features\208.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_210.wav,synt_210.wav,catat 1 gula,gula,1.0,synt,tts_google,add_item,,,1.024,,,209,data\features\209.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_211.wav,synt_211.wav,catat 1 gula,gula,1.0,synt,tts_google,add_item,,,1.344,,,210,data\features\210.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_212.wav,synt_212.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.306125,,,211,data\features\211.npy,82
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_213.wav,synt_213.wav,catat 4 minyak,minyak,4.0,synt,tts_google,add_item,,,1.376,,,212,data\features\212.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_214.wav,synt_214.wav,catat 5 minyak,minyak,5.0,synt,tts_google,add_item,,,1.184,,,213,data\features\213.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_215.wav,synt_215.wav,catat 5 susu,susu,5.0,synt,tts_google,add_item,,,1.64575,,,214,data\features\214.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_216.wav,synt_216.wav,catat 4 mie,mie,4.0,synt,tts_google,add_item,,,1.504,,,215,data\features\215.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_217.wav,synt_217.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,1.152,,,216,data\features\216.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_218.wav,synt_218.wav,catat 3 minyak,minyak,3.0,synt,tts_google,add_item,,,1.312,,,217,data\features\217.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_219.wav,synt_219.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.4655,,,218,data\features\218.npy,92
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_220.wav,synt_220.wav,catat 2 sabun,sabun,2.0,synt,tts_google,add_item,,,1.216,,,219,data\features\219.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_221.wav,synt_221.wav,catat 3 mie,mie,3.0,synt,tts_google,add_item,,,1.419125,,,220,data\features\220.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_222.wav,synt_222.wav,catat 4 susu,susu,4.0,synt,tts_google,add_item,,,1.306125,,,221,data\features\221.npy,82
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_223.wav,synt_223.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.248,,,222,data\features\222.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_224.wav,synt_224.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.856,,,223,data\features\223.npy,117
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_225.wav,synt_225.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,1.274125,,,224,data\features\224.npy,80
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_226.wav,synt_226.wav,catat 2 gula,gula,2.0,synt,tts_google,add_item,,,1.024,,,225,data\features\225.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_227.wav,synt_227.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.088,,,226,data\features\226.npy,69
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_228.wav,synt_228.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.088,,,227,data\features\227.npy,69
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_229.wav,synt_229.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,2.0316875,,,228,data\features\228.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_230.wav,synt_230.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,0.8966875,,,229,data\features\229.npy,57
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_231.wav,synt_231.wav,catat 4 kopi,kopi,4.0,synt,tts_google,add_item,,,3.488,,,230,data\features\230.npy,219
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_232.wav,synt_232.wav,catat 4 susu,susu,4.0,synt,tts_google,add_item,,,1.312,,,231,data\features\231.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_233.wav,synt_233.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.54975,,,232,data\features\232.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_234.wav,synt_234.wav,catat 2 beras,beras,2.0,synt,tts_google,add_item,,,1.248,,,233,data\features\233.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_235.wav,synt_235.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.12,,,234,data\features\234.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_236.wav,synt_236.wav,catat 5 mie,mie,5.0,synt,tts_google,add_item,,,1.408,,,235,data\features\235.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_237.wav,synt_237.wav,catat 5 susu,susu,5.0,synt,tts_google,add_item,,,1.152,,,236,data\features\236.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_238.wav,synt_238.wav,catat 4 telur,telur,4.0,synt,tts_google,add_item,,,1.344,,,237,data\features\237.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_239.wav,synt_239.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.28,,,238,data\features\238.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_240.wav,synt_240.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.632,,,239,data\features\239.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_241.wav,synt_241.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,2.016,,,240,data\features\240.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_242.wav,synt_242.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.152,,,241,data\features\241.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_243.wav,synt_243.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,2.176,,,242,data\features\242.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_244.wav,synt_244.wav,catat 4 kopi,kopi,4.0,synt,tts_google,add_item,,,1.184,,,243,data\features\243.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_245.wav,synt_245.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.12,,,244,data\features\244.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_246.wav,synt_246.wav,catat 4 minyak,minyak,4.0,synt,tts_google,add_item,,,1.344,,,245,data\features\245.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_247.wav,synt_247.wav,catat 3 gula,gula,3.0,synt,tts_google,add_item,,,1.1638125,,,246,data\features\246.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_248.wav,synt_248.wav,catat 2 beras,beras,2.0,synt,tts_google,add_item,,,1.660125,,,247,data\features\247.npy,104
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_249.wav,synt_249.wav,catat 1 gula,gula,1.0,synt,tts_google,add_item,,,1.248,,,248,data\features\248.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_250.wav,synt_250.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.262375,,,249,data\features\249.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_251.wav,synt_251.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.216,,,250,data\features\250.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_252.wav,synt_252.wav,catat 5 mie,mie,5.0,synt,tts_google,add_item,,,1.152,,,251,data\features\251.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_253.wav,synt_253.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.472,,,252,data\features\252.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_254.wav,synt_254.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.504,,,253,data\features\253.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_255.wav,synt_255.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.984,,,254,data\features\254.npy,125
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_256.wav,synt_256.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,0.928,,,255,data\features\255.npy,59
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_257.wav,synt_257.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.344,,,256,data\features\256.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_258.wav,synt_258.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.12,,,257,data\features\257.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_259.wav,synt_259.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,1.1435625,,,258,data\features\258.npy,72
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_260.wav,synt_260.wav,catat 4 minyak,minyak,4.0,synt,tts_google,add_item,,,1.024,,,259,data\features\259.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_261.wav,synt_261.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.376,,,260,data\features\260.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_262.wav,synt_262.wav,catat 4 kopi,kopi,4.0,synt,tts_google,add_item,,,1.184,,,261,data\features\261.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_263.wav,synt_263.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,1.184,,,262,data\features\262.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_264.wav,synt_264.wav,catat 4 sabun,sabun,4.0,synt,tts_google,add_item,,,1.430875,,,263,data\features\263.npy,90
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_265.wav,synt_265.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,0.96,,,264,data\features\264.npy,61
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_266.wav,synt_266.wav,catat 4 telur,telur,4.0,synt,tts_google,add_item,,,1.024,,,265,data\features\265.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_267.wav,synt_267.wav,catat 3 mie,mie,3.0,synt,tts_google,add_item,,,1.5615,,,266,data\features\266.npy,98
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_268.wav,synt_268.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.056,,,267,data\features\267.npy,67
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_269.wav,synt_269.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,1.408,,,268,data\features\268.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_270.wav,synt_270.wav,catat 4 teh,teh,4.0,synt,tts_google,add_item,,,0.928,,,269,data\features\269.npy,59
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_271.wav,synt_271.wav,catat 4 gula,gula,4.0,synt,tts_google,add_item,,,1.12,,,270,data\features\270.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_272.wav,synt_272.wav,catat 2 teh,teh,2.0,synt,tts_google,add_item,,,1.024,,,271,data\features\271.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_273.wav,synt_273.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,0.96,,,272,data\features\272.npy,61
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_274.wav,synt_274.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.216,,,273,data\features\273.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_275.wav,synt_275.wav,catat 4 gula,gula,4.0,synt,tts_google,add_item,,,1.216,,,274,data\features\274.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_276.wav,synt_276.wav,catat 3 mie,mie,3.0,synt,tts_google,add_item,,,1.0331875,,,275,data\features\275.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_277.wav,synt_277.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,0.992,,,276,data\features\276.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_278.wav,synt_278.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.12,,,277,data\features\277.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_279.wav,synt_279.wav,catat 1 kopi,kopi,1.0,synt,tts_google,add_item,,,1.692125,,,278,data\features\278.npy,106
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_280.wav,synt_280.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,0.992,,,279,data\features\279.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_281.wav,synt_281.wav,catat 3 kopi,kopi,3.0,synt,tts_google,add_item,,,1.5615,,,280,data\features\280.npy,98
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_282.wav,synt_282.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.408,,,281,data\features\281.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_283.wav,synt_283.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,0.992,,,282,data\features\282.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_284.wav,synt_284.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.216,,,283,data\features\283.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_285.wav,synt_285.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.408,,,284,data\features\284.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_286.wav,synt_286.wav,catat 4 teh,teh,4.0,synt,tts_google,add_item,,,1.184,,,285,data\features\285.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_287.wav,synt_287.wav,catat 1 kopi,kopi,1.0,synt,tts_google,add_item,,,1.242125,,,286,data\features\286.npy,78
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_288.wav,synt_288.wav,catat 4 gula,gula,4.0,synt,tts_google,add_item,,,1.12,,,287,data\features\287.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_289.wav,synt_289.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,1.056,,,288,data\features\288.npy,67
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_290.wav,synt_290.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.152,,,289,data\features\289.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_291.wav,synt_291.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,1.312,,,290,data\features\290.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_292.wav,synt_292.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.184,,,291,data\features\291.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_293.wav,synt_293.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,0.992,,,292,data\features\292.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_294.wav,synt_294.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.408,,,293,data\features\293.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_295.wav,synt_295.wav,catat 3 kopi,kopi,3.0,synt,tts_google,add_item,,,1.664,,,294,data\features\294.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_296.wav,synt_296.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.12,,,295,data\features\295.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_297.wav,synt_297.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.216,,,296,data\features\296.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_298.wav,synt_298.wav,catat 1 gula,gula,1.0,synt,tts_google,add_item,,,1.564125,,,297,data\features\297.npy,98
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_299.wav,synt_299.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.152,,,298,data\features\298.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_300.wav,synt_300.wav,catat 4 minyak,minyak,4.0,synt,tts_google,add_item,,,1.816875,,,299,data\features\299.npy,114
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_301.wav,synt_301.wav,catat 2 gula,gula,2.0,synt,tts_google,add_item,,,1.483125,,,300,data\features\300.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_302.wav,synt_302.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.024,,,301,data\features\301.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_303.wav,synt_303.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.12,,,302,data\features\302.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_304.wav,synt_304.wav,catat 2 teh,teh,2.0,synt,tts_google,add_item,,,0.704,,,303,data\features\303.npy,45
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_305.wav,synt_305.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,0.992,,,304,data\features\304.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_306.wav,synt_306.wav,catat 1 kopi,kopi,1.0,synt,tts_google,add_item,,,1.274125,,,305,data\features\305.npy,80
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_307.wav,synt_307.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,1.344,,,306,data\features\306.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_308.wav,synt_308.wav,catat 2 sabun,sabun,2.0,synt,tts_google,add_item,,,1.28,,,307,data\features\307.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_309.wav,synt_309.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,1.210125,,,308,data\features\308.npy,76
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_310.wav,synt_310.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,0.928,,,309,data\features\309.npy,59
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_311.wav,synt_311.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,0.8,,,310,data\features\310.npy,51
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_312.wav,synt_312.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.515125,,,311,data\features\311.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_313.wav,synt_313.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.28,,,312,data\features\312.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_314.wav,synt_314.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.398875,,,313,data\features\313.npy,88
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_315.wav,synt_315.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.152,,,314,data\features\314.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_316.wav,synt_316.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.12,,,315,data\features\315.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_317.wav,synt_317.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,1.184,,,316,data\features\316.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_318.wav,synt_318.wav,catat 1 beras,beras,1.0,synt,tts_google,add_item,,,1.326375,,,317,data\features\317.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_319.wav,synt_319.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,2.688,,,318,data\features\318.npy,169
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_320.wav,synt_320.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.056,,,319,data\features\319.npy,67
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_321.wav,synt_321.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,0.928,,,320,data\features\320.npy,59
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_322.wav,synt_322.wav,catat 4 minyak,minyak,4.0,synt,tts_google,add_item,,,1.024,,,321,data\features\321.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_323.wav,synt_323.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.12,,,322,data\features\322.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_324.wav,synt_324.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.376,,,323,data\features\323.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_325.wav,synt_325.wav,catat 4 minyak,minyak,4.0,synt,tts_google,add_item,,,1.184,,,324,data\features\324.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_326.wav,synt_326.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,0.96,,,325,data\features\325.npy,61
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_327.wav,synt_327.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.344,,,326,data\features\326.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_328.wav,synt_328.wav,catat 3 susu,susu,3.0,synt,tts_google,add_item,,,1.056,,,327,data\features\327.npy,67
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_329.wav,synt_329.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.056,,,328,data\features\328.npy,67
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_330.wav,synt_330.wav,catat 4 sabun,sabun,4.0,synt,tts_google,add_item,,,0.896,,,329,data\features\329.npy,57
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_331.wav,synt_331.wav,catat 1 minyak,minyak,1.0,synt,tts_google,add_item,,,1.696,,,330,data\features\330.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_332.wav,synt_332.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.568,,,331,data\features\331.npy,99
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_333.wav,synt_333.wav,catat 2 teh,teh,2.0,synt,tts_google,add_item,,,1.216,,,332,data\features\332.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_334.wav,synt_334.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.242125,,,333,data\features\333.npy,78
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_335.wav,synt_335.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.44525,,,334,data\features\334.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_336.wav,synt_336.wav,catat 4 minyak,minyak,4.0,synt,tts_google,add_item,,,1.76,,,335,data\features\335.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_337.wav,synt_337.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,0.992,,,336,data\features\336.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_338.wav,synt_338.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,1.344,,,337,data\features\337.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_339.wav,synt_339.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.54125,,,338,data\features\338.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_340.wav,synt_340.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.12,,,339,data\features\339.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_341.wav,synt_341.wav,catat 2 beras,beras,2.0,synt,tts_google,add_item,,,0.864,,,340,data\features\340.npy,55
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_342.wav,synt_342.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,0.992,,,341,data\features\341.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_343.wav,synt_343.wav,catat 5 susu,susu,5.0,synt,tts_google,add_item,,,1.152,,,342,data\features\342.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_344.wav,synt_344.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,1.696,,,343,data\features\343.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_345.wav,synt_345.wav,catat 1 gula,gula,1.0,synt,tts_google,add_item,,,1.408,,,344,data\features\344.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_346.wav,synt_346.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.9794375,,,345,data\features\345.npy,124
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_347.wav,synt_347.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,0.768,,,346,data\features\346.npy,49
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_348.wav,synt_348.wav,catat 2 teh,teh,2.0,synt,tts_google,add_item,,,1.312,,,347,data\features\347.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_349.wav,synt_349.wav,catat 3 gula,gula,3.0,synt,tts_google,add_item,,,1.28,,,348,data\features\348.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_350.wav,synt_350.wav,catat 4 kopi,kopi,4.0,synt,tts_google,add_item,,,1.248,,,349,data\features\349.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_351.wav,synt_351.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.262375,,,350,data\features\350.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_352.wav,synt_352.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.792,,,351,data\features\351.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_353.wav,synt_353.wav,catat 2 gula,gula,2.0,synt,tts_google,add_item,,,0.96,,,352,data\features\352.npy,61
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_354.wav,synt_354.wav,catat 3 kopi,kopi,3.0,synt,tts_google,add_item,,,1.724125,,,353,data\features\353.npy,108
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_355.wav,synt_355.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.54125,,,354,data\features\354.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_356.wav,synt_356.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.44,,,355,data\features\355.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_357.wav,synt_357.wav,catat 2 susu,susu,2.0,synt,tts_google,add_item,,,1.744375,,,356,data\features\356.npy,110
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_358.wav,synt_358.wav,catat 4 mie,mie,4.0,synt,tts_google,add_item,,,1.28,,,357,data\features\357.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_359.wav,synt_359.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,0.896,,,358,data\features\358.npy,57
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_360.wav,synt_360.wav,catat 4 kopi,kopi,4.0,synt,tts_google,add_item,,,1.024,,,359,data\features\359.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_361.wav,synt_361.wav,catat 5 mie,mie,5.0,synt,tts_google,add_item,,,1.366875,,,360,data\features\360.npy,86
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_362.wav,synt_362.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,1.696,,,361,data\features\361.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_363.wav,synt_363.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,0.96,,,362,data\features\362.npy,61
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_364.wav,synt_364.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,0.992,,,363,data\features\363.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_365.wav,synt_365.wav,catat 3 susu,susu,3.0,synt,tts_google,add_item,,,0.896,,,364,data\features\364.npy,57
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_366.wav,synt_366.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.28,,,365,data\features\365.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_367.wav,synt_367.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.248,,,366,data\features\366.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_368.wav,synt_368.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.152,,,367,data\features\367.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_369.wav,synt_369.wav,catat 3 kopi,kopi,3.0,synt,tts_google,add_item,,,1.312,,,368,data\features\368.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_370.wav,synt_370.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.270875,,,369,data\features\369.npy,80
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_371.wav,synt_371.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,0.736,,,370,data\features\370.npy,47
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_372.wav,synt_372.wav,catat 3 minyak,minyak,3.0,synt,tts_google,add_item,,,1.314625,,,371,data\features\371.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_373.wav,synt_373.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,0.768,,,372,data\features\372.npy,49
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_374.wav,synt_374.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.12,,,373,data\features\373.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_375.wav,synt_375.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,1.184,,,374,data\features\374.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_376.wav,synt_376.wav,catat 4 susu,susu,4.0,synt,tts_google,add_item,,,1.152,,,375,data\features\375.npy,73
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_377.wav,synt_377.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.28,,,376,data\features\376.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_378.wav,synt_378.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,0.9809375,,,377,data\features\377.npy,62
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_379.wav,synt_379.wav,catat 2 sabun,sabun,2.0,synt,tts_google,add_item,,,0.9809375,,,378,data\features\378.npy,62
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_380.wav,synt_380.wav,catat 5 mie,mie,5.0,synt,tts_google,add_item,,,1.056,,,379,data\features\379.npy,67
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_381.wav,synt_381.wav,catat 1 minyak,minyak,1.0,synt,tts_google,add_item,,,1.408,,,380,data\features\380.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_382.wav,synt_382.wav,catat 2 gula,gula,2.0,synt,tts_google,add_item,,,1.12,,,381,data\features\381.npy,71
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_383.wav,synt_383.wav,catat 4 telur,telur,4.0,synt,tts_google,add_item,,,0.896,,,382,data\features\382.npy,57
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_384.wav,synt_384.wav,catat 4 mie,mie,4.0,synt,tts_google,add_item,,,1.376,,,383,data\features\383.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_385.wav,synt_385.wav,catat 4 teh,teh,4.0,synt,tts_google,add_item,,,1.262375,,,384,data\features\384.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_386.wav,synt_386.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.184,,,385,data\features\385.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_387.wav,synt_387.wav,catat 4 susu,susu,4.0,synt,tts_google,add_item,,,1.024,,,386,data\features\386.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_388.wav,synt_388.wav,catat 3 minyak,minyak,3.0,synt,tts_google,add_item,,,0.928,,,387,data\features\387.npy,59
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_389.wav,synt_389.wav,catat 3 beras,beras,3.0,synt,tts_google,add_item,,,1.294375,,,388,data\features\388.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_390.wav,synt_390.wav,catat 3 kopi,kopi,3.0,synt,tts_google,add_item,,,1.262375,,,389,data\features\389.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_391.wav,synt_391.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.28,,,390,data\features\390.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_392.wav,synt_392.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,1.024,,,391,data\features\391.npy,65
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_393.wav,synt_393.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.568,,,392,data\features\392.npy,99
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_394.wav,synt_394.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.184,,,393,data\features\393.npy,75
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_395.wav,synt_395.wav,catat 2 sabun,sabun,2.0,synt,tts_google,add_item,,,0.928,,,394,data\features\394.npy,59
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_396.wav,synt_396.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,0.768,,,395,data\features\395.npy,49
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_397.wav,synt_397.wav,catat 5 sabun,sabun,5.0,synt,tts_google,add_item,,,1.216,,,396,data\features\396.npy,77
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_398.wav,synt_398.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,0.992,,,397,data\features\397.npy,63
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_399.wav,synt_399.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.274125,,,398,data\features\398.npy,80
+M:/ITERA/Semester 7/Deep Learning/Tubes/audio-out/synt_400.wav,synt_400.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.792,,,399,data\features\399.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_401.mp3,synt_401.wav,catat 2 gula,gula,2.0,synt,tts_google,add_item,,,1.344,,,400,data\features\400.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_402.mp3,synt_402.wav,catat 4 gula,gula,4.0,synt,tts_google,add_item,,,1.44,,,401,data\features\401.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_403.mp3,synt_403.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.376,,,402,data\features\402.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_404.mp3,synt_404.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,1.952,,,403,data\features\403.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_405.mp3,synt_405.wav,catat 4 mie,mie,4.0,synt,tts_google,add_item,,,1.344,,,404,data\features\404.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_406.mp3,synt_406.wav,catat 4 mie,mie,4.0,synt,tts_google,add_item,,,1.344,,,405,data\features\405.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_407.mp3,synt_407.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,1.44,,,406,data\features\406.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_408.mp3,synt_408.wav,catat 4 teh,teh,4.0,synt,tts_google,add_item,,,1.408,,,407,data\features\407.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_409.mp3,synt_409.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,408,data\features\408.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_410.mp3,synt_410.wav,catat 1 kopi,kopi,1.0,synt,tts_google,add_item,,,1.536,,,409,data\features\409.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_411.mp3,synt_411.wav,catat 2 susu,susu,2.0,synt,tts_google,add_item,,,1.472,,,410,data\features\410.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_412.mp3,synt_412.wav,catat 2 sabun,sabun,2.0,synt,tts_google,add_item,,,1.536,,,411,data\features\411.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_413.mp3,synt_413.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,1.632,,,412,data\features\412.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_414.mp3,synt_414.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.504,,,413,data\features\413.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_415.mp3,synt_415.wav,catat 4 gula,gula,4.0,synt,tts_google,add_item,,,1.44,,,414,data\features\414.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_416.mp3,synt_416.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.952,,,415,data\features\415.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_417.mp3,synt_417.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,2.016,,,416,data\features\416.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_418.mp3,synt_418.wav,catat 4 mie,mie,4.0,synt,tts_google,add_item,,,1.344,,,417,data\features\417.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_419.mp3,synt_419.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.376,,,418,data\features\418.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_420.mp3,synt_420.wav,catat 1 kopi,kopi,1.0,synt,tts_google,add_item,,,1.536,,,419,data\features\419.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_421.mp3,synt_421.wav,catat 1 gula,gula,1.0,synt,tts_google,add_item,,,1.44,,,420,data\features\420.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_422.mp3,synt_422.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,1.504,,,421,data\features\421.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_423.mp3,synt_423.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.6,,,422,data\features\422.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_424.mp3,synt_424.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,423,data\features\423.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_425.mp3,synt_425.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,2.016,,,424,data\features\424.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_426.mp3,synt_426.wav,catat 4 susu,susu,4.0,synt,tts_google,add_item,,,1.536,,,425,data\features\425.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_427.mp3,synt_427.wav,catat 1 kopi,kopi,1.0,synt,tts_google,add_item,,,1.536,,,426,data\features\426.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_428.mp3,synt_428.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.6,,,427,data\features\427.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_429.mp3,synt_429.wav,catat 3 gula,gula,3.0,synt,tts_google,add_item,,,1.376,,,428,data\features\428.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_430.mp3,synt_430.wav,catat 1 minyak,minyak,1.0,synt,tts_google,add_item,,,1.44,,,429,data\features\429.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_431.mp3,synt_431.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.312,,,430,data\features\430.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_432.mp3,synt_432.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.376,,,431,data\features\431.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_433.mp3,synt_433.wav,catat 4 teh,teh,4.0,synt,tts_google,add_item,,,1.408,,,432,data\features\432.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_434.mp3,synt_434.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,433,data\features\433.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_435.mp3,synt_435.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,434,data\features\434.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_436.mp3,synt_436.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,435,data\features\435.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_437.mp3,synt_437.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.888,,,436,data\features\436.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_438.mp3,synt_438.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.472,,,437,data\features\437.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_439.mp3,synt_439.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.536,,,438,data\features\438.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_440.mp3,synt_440.wav,catat 4 minyak,minyak,4.0,synt,tts_google,add_item,,,1.472,,,439,data\features\439.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_441.mp3,synt_441.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,1.952,,,440,data\features\440.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_442.mp3,synt_442.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.376,,,441,data\features\441.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_443.mp3,synt_443.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,1.504,,,442,data\features\442.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_444.mp3,synt_444.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,2.016,,,443,data\features\443.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_445.mp3,synt_445.wav,catat 3 gula,gula,3.0,synt,tts_google,add_item,,,1.376,,,444,data\features\444.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_446.mp3,synt_446.wav,catat 5 sabun,sabun,5.0,synt,tts_google,add_item,,,1.6,,,445,data\features\445.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_447.mp3,synt_447.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,2.016,,,446,data\features\446.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_448.mp3,synt_448.wav,catat 3 gula,gula,3.0,synt,tts_google,add_item,,,1.376,,,447,data\features\447.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_449.mp3,synt_449.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.472,,,448,data\features\448.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_450.mp3,synt_450.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.472,,,449,data\features\449.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_451.mp3,synt_451.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.536,,,450,data\features\450.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_452.mp3,synt_452.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.408,,,451,data\features\451.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_453.mp3,synt_453.wav,catat 1 beras,beras,1.0,synt,tts_google,add_item,,,1.504,,,452,data\features\452.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_454.mp3,synt_454.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.44,,,453,data\features\453.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_455.mp3,synt_455.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.44,,,454,data\features\454.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_456.mp3,synt_456.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,455,data\features\455.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_457.mp3,synt_457.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.888,,,456,data\features\456.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_458.mp3,synt_458.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.536,,,457,data\features\457.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_459.mp3,synt_459.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,1.504,,,458,data\features\458.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_460.mp3,synt_460.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,459,data\features\459.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_461.mp3,synt_461.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.376,,,460,data\features\460.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_462.mp3,synt_462.wav,catat 1 gula,gula,1.0,synt,tts_google,add_item,,,1.44,,,461,data\features\461.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_463.mp3,synt_463.wav,catat 4 kopi,kopi,4.0,synt,tts_google,add_item,,,1.536,,,462,data\features\462.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_464.mp3,synt_464.wav,catat 2 beras,beras,2.0,synt,tts_google,add_item,,,1.376,,,463,data\features\463.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_465.mp3,synt_465.wav,catat 4 mie,mie,4.0,synt,tts_google,add_item,,,1.344,,,464,data\features\464.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_466.mp3,synt_466.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,1.44,,,465,data\features\465.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_467.mp3,synt_467.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,466,data\features\466.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_468.mp3,synt_468.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.312,,,467,data\features\467.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_469.mp3,synt_469.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.888,,,468,data\features\468.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_470.mp3,synt_470.wav,catat 1 minyak,minyak,1.0,synt,tts_google,add_item,,,1.44,,,469,data\features\469.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_471.mp3,synt_471.wav,catat 2 air mineral,air mineral,2.0,synt,tts_google,add_item,,,1.888,,,470,data\features\470.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_472.mp3,synt_472.wav,catat 3 mie,mie,3.0,synt,tts_google,add_item,,,1.312,,,471,data\features\471.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_473.mp3,synt_473.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.6,,,472,data\features\472.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_474.mp3,synt_474.wav,catat 3 telur,telur,3.0,synt,tts_google,add_item,,,1.44,,,473,data\features\473.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_475.mp3,synt_475.wav,catat 1 beras,beras,1.0,synt,tts_google,add_item,,,1.504,,,474,data\features\474.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_476.mp3,synt_476.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,475,data\features\475.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_477.mp3,synt_477.wav,catat 1 air mineral,air mineral,1.0,synt,tts_google,add_item,,,2.016,,,476,data\features\476.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_478.mp3,synt_478.wav,catat 1 minyak,minyak,1.0,synt,tts_google,add_item,,,1.44,,,477,data\features\477.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_479.mp3,synt_479.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,1.536,,,478,data\features\478.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_480.mp3,synt_480.wav,catat 3 teh,teh,3.0,synt,tts_google,add_item,,,1.376,,,479,data\features\479.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_481.mp3,synt_481.wav,catat 1 minyak,minyak,1.0,synt,tts_google,add_item,,,1.44,,,480,data\features\480.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_482.mp3,synt_482.wav,catat 2 teh,teh,2.0,synt,tts_google,add_item,,,1.312,,,481,data\features\481.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_483.mp3,synt_483.wav,catat 2 telur,telur,2.0,synt,tts_google,add_item,,,1.376,,,482,data\features\482.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_484.mp3,synt_484.wav,catat 5 telur,telur,5.0,synt,tts_google,add_item,,,1.44,,,483,data\features\483.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_485.mp3,synt_485.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,1.504,,,484,data\features\484.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_486.mp3,synt_486.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,2.016,,,485,data\features\485.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_487.mp3,synt_487.wav,catat 2 sabun,sabun,2.0,synt,tts_google,add_item,,,1.536,,,486,data\features\486.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_488.mp3,synt_488.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,487,data\features\487.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_489.mp3,synt_489.wav,catat 1 beras,beras,1.0,synt,tts_google,add_item,,,1.504,,,488,data\features\488.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_490.mp3,synt_490.wav,catat 1 minyak,minyak,1.0,synt,tts_google,add_item,,,1.44,,,489,data\features\489.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_491.mp3,synt_491.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,490,data\features\490.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_492.mp3,synt_492.wav,catat 3 kopi,kopi,3.0,synt,tts_google,add_item,,,1.504,,,491,data\features\491.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_493.mp3,synt_493.wav,catat 5 gula,gula,5.0,synt,tts_google,add_item,,,1.408,,,492,data\features\492.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_494.mp3,synt_494.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.952,,,493,data\features\493.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_495.mp3,synt_495.wav,catat 3 gula,gula,3.0,synt,tts_google,add_item,,,1.376,,,494,data\features\494.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_496.mp3,synt_496.wav,catat 2 susu,susu,2.0,synt,tts_google,add_item,,,1.472,,,495,data\features\495.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_497.mp3,synt_497.wav,catat 4 susu,susu,4.0,synt,tts_google,add_item,,,1.536,,,496,data\features\496.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_498.mp3,synt_498.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,497,data\features\497.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_499.mp3,synt_499.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.408,,,498,data\features\498.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_500.mp3,synt_500.wav,catat 4 teh,teh,4.0,synt,tts_google,add_item,,,1.408,,,499,data\features\499.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_501.mp3,synt_501.wav,catat 5 air mineral,air mineral,5.0,synt,tts_google,add_item,,,1.952,,,500,data\features\500.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_502.mp3,synt_502.wav,catat 4 susu,susu,4.0,synt,tts_google,add_item,,,1.536,,,501,data\features\501.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_503.mp3,synt_503.wav,catat 5 sabun,sabun,5.0,synt,tts_google,add_item,,,1.6,,,502,data\features\502.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_504.mp3,synt_504.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,2.016,,,503,data\features\503.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_505.mp3,synt_505.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,2.016,,,504,data\features\504.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_506.mp3,synt_506.wav,catat 1 kopi,kopi,1.0,synt,tts_google,add_item,,,1.536,,,505,data\features\505.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_507.mp3,synt_507.wav,catat 1 minyak,minyak,1.0,synt,tts_google,add_item,,,1.44,,,506,data\features\506.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_508.mp3,synt_508.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,1.632,,,507,data\features\507.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_509.mp3,synt_509.wav,catat 5 mie,mie,5.0,synt,tts_google,add_item,,,1.28,,,508,data\features\508.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_510.mp3,synt_510.wav,catat 1 gula,gula,1.0,synt,tts_google,add_item,,,1.44,,,509,data\features\509.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_511.mp3,synt_511.wav,catat 5 minyak,minyak,5.0,synt,tts_google,add_item,,,1.408,,,510,data\features\510.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_512.mp3,synt_512.wav,catat 4 sabun,sabun,4.0,synt,tts_google,add_item,,,1.632,,,511,data\features\511.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_513.mp3,synt_513.wav,catat 5 mie,mie,5.0,synt,tts_google,add_item,,,1.28,,,512,data\features\512.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_514.mp3,synt_514.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,1.952,,,513,data\features\513.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_515.mp3,synt_515.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.408,,,514,data\features\514.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_516.mp3,synt_516.wav,catat 5 sabun,sabun,5.0,synt,tts_google,add_item,,,1.6,,,515,data\features\515.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_517.mp3,synt_517.wav,catat 5 mie,mie,5.0,synt,tts_google,add_item,,,1.28,,,516,data\features\516.npy,81
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_518.mp3,synt_518.wav,catat 2 sabun,sabun,2.0,synt,tts_google,add_item,,,1.536,,,517,data\features\517.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_519.mp3,synt_519.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,518,data\features\518.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_520.mp3,synt_520.wav,catat 4 minyak,minyak,4.0,synt,tts_google,add_item,,,1.472,,,519,data\features\519.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_521.mp3,synt_521.wav,catat 2 kopi,kopi,2.0,synt,tts_google,add_item,,,1.44,,,520,data\features\520.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_522.mp3,synt_522.wav,catat 2 minyak,minyak,2.0,synt,tts_google,add_item,,,1.344,,,521,data\features\521.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_523.mp3,synt_523.wav,catat 4 gula,gula,4.0,synt,tts_google,add_item,,,1.44,,,522,data\features\522.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_524.mp3,synt_524.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.376,,,523,data\features\523.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_525.mp3,synt_525.wav,catat 2 teh,teh,2.0,synt,tts_google,add_item,,,1.312,,,524,data\features\524.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_526.mp3,synt_526.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.504,,,525,data\features\525.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_527.mp3,synt_527.wav,catat 3 sabun,sabun,3.0,synt,tts_google,add_item,,,1.6,,,526,data\features\526.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_528.mp3,synt_528.wav,catat 4 susu,susu,4.0,synt,tts_google,add_item,,,1.536,,,527,data\features\527.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_529.mp3,synt_529.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.376,,,528,data\features\528.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_530.mp3,synt_530.wav,catat 1 beras,beras,1.0,synt,tts_google,add_item,,,1.504,,,529,data\features\529.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_531.mp3,synt_531.wav,catat 5 teh,teh,5.0,synt,tts_google,add_item,,,1.376,,,530,data\features\530.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_532.mp3,synt_532.wav,catat 1 beras,beras,1.0,synt,tts_google,add_item,,,1.504,,,531,data\features\531.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_533.mp3,synt_533.wav,catat 1 minyak,minyak,1.0,synt,tts_google,add_item,,,1.44,,,532,data\features\532.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_534.mp3,synt_534.wav,catat 2 mie,mie,2.0,synt,tts_google,add_item,,,1.248,,,533,data\features\533.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_535.mp3,synt_535.wav,catat 4 air mineral,air mineral,4.0,synt,tts_google,add_item,,,2.016,,,534,data\features\534.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_536.mp3,synt_536.wav,catat 1 susu,susu,1.0,synt,tts_google,add_item,,,1.536,,,535,data\features\535.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_537.mp3,synt_537.wav,catat 4 sabun,sabun,4.0,synt,tts_google,add_item,,,1.632,,,536,data\features\536.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_538.mp3,synt_538.wav,catat 1 mie,mie,1.0,synt,tts_google,add_item,,,1.312,,,537,data\features\537.npy,83
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_539.mp3,synt_539.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.408,,,538,data\features\538.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_540.mp3,synt_540.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.408,,,539,data\features\539.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_541.mp3,synt_541.wav,catat 4 sabun,sabun,4.0,synt,tts_google,add_item,,,1.632,,,540,data\features\540.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_542.mp3,synt_542.wav,catat 1 sabun,sabun,1.0,synt,tts_google,add_item,,,1.632,,,541,data\features\541.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_543.mp3,synt_543.wav,catat 3 air mineral,air mineral,3.0,synt,tts_google,add_item,,,1.952,,,542,data\features\542.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_544.mp3,synt_544.wav,catat 1 telur,telur,1.0,synt,tts_google,add_item,,,1.472,,,543,data\features\543.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_545.mp3,synt_545.wav,catat 5 kopi,kopi,5.0,synt,tts_google,add_item,,,1.504,,,544,data\features\544.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_546.mp3,synt_546.wav,catat 5 beras,beras,5.0,synt,tts_google,add_item,,,1.504,,,545,data\features\545.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_547.mp3,synt_547.wav,catat 1 teh,teh,1.0,synt,tts_google,add_item,,,1.408,,,546,data\features\546.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_548.mp3,synt_548.wav,catat 4 gula,gula,4.0,synt,tts_google,add_item,,,1.44,,,547,data\features\547.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_549.mp3,synt_549.wav,catat 4 beras,beras,4.0,synt,tts_google,add_item,,,1.536,,,548,data\features\548.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/synt_550.mp3,synt_550.wav,catat 3 minyak,minyak,3.0,synt,tts_google,add_item,,,1.408,,,549,data\features\549.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_551.wav,manual_551.wav,catat 4 air mineral,air mineral,4.0,manual,mujadid,add_item,,,2.272,,,550,data\features\550.npy,143
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_552.wav,manual_552.wav,catat 4 mie,mie,4.0,manual,mujadid,add_item,,,1.344,,,551,data\features\551.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_553.wav,manual_553.wav,catat 2 kopi,kopi,2.0,manual,mujadid,add_item,,,1.76,,,552,data\features\552.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_554.wav,manual_554.wav,catat 3 kopi,kopi,3.0,manual,mujadid,add_item,,,1.92,,,553,data\features\553.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_555.wav,manual_555.wav,catat 1 mie,mie,1.0,manual,mujadid,add_item,,,1.762,,,554,data\features\554.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_556.wav,manual_556.wav,catat 1 air mineral,air mineral,1.0,manual,mujadid,add_item,,,2.016,,,555,data\features\555.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_557.wav,manual_557.wav,catat 4 mie,mie,4.0,manual,mujadid,add_item,,,1.696,,,556,data\features\556.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_558.wav,manual_558.wav,catat 1 air mineral,air mineral,1.0,manual,mujadid,add_item,,,2.176,,,557,data\features\557.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_559.wav,manual_559.wav,catat 2 mie,mie,2.0,manual,mujadid,add_item,,,1.248,,,558,data\features\558.npy,79
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_560.wav,manual_560.wav,catat 2 teh,teh,2.0,manual,mujadid,add_item,,,1.568,,,559,data\features\559.npy,99
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_561.wav,manual_561.wav,catat 4 teh,teh,4.0,manual,mujadid,add_item,,,1.536,,,560,data\features\560.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_562.wav,manual_562.wav,catat 5 minyak,minyak,5.0,manual,mujadid,add_item,,,1.632,,,561,data\features\561.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_563.wav,manual_563.wav,catat 5 telur,telur,5.0,manual,mujadid,add_item,,,1.824,,,562,data\features\562.npy,115
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_564.wav,manual_564.wav,catat 1 minyak,minyak,1.0,manual,mujadid,add_item,,,1.728,,,563,data\features\563.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_565.wav,manual_565.wav,catat 2 kopi,kopi,2.0,manual,mujadid,add_item,,,1.632,,,564,data\features\564.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_566.wav,manual_566.wav,catat 5 beras,beras,5.0,manual,mujadid,add_item,,,1.664,,,565,data\features\565.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_567.wav,manual_567.wav,catat 5 telur,telur,5.0,manual,mujadid,add_item,,,1.664,,,566,data\features\566.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_568.wav,manual_568.wav,catat 2 gula,gula,2.0,manual,mujadid,add_item,,,1.632,,,567,data\features\567.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_569.wav,manual_569.wav,catat 4 susu,susu,4.0,manual,mujadid,add_item,,,1.792,,,568,data\features\568.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_570.wav,manual_570.wav,catat 2 beras,beras,2.0,manual,mujadid,add_item,,,1.962,,,569,data\features\569.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_571.wav,manual_571.wav,catat 3 minyak,minyak,3.0,manual,mujadid,add_item,,,1.536,,,570,data\features\570.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_572.wav,manual_572.wav,catat 4 kopi,kopi,4.0,manual,mujadid,add_item,,,1.92,,,571,data\features\571.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_573.wav,manual_573.wav,catat 5 minyak,minyak,5.0,manual,mujadid,add_item,,,1.632,,,572,data\features\572.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_574.wav,manual_574.wav,catat 2 kopi,kopi,2.0,manual,mujadid,add_item,,,2.144,,,573,data\features\573.npy,135
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_575.wav,manual_575.wav,catat 5 telur,telur,5.0,manual,mujadid,add_item,,,1.696,,,574,data\features\574.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_576.wav,manual_576.wav,catat 1 mie,mie,1.0,manual,mujadid,add_item,,,1.632,,,575,data\features\575.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_577.wav,manual_577.wav,catat 4 susu,susu,4.0,manual,mujadid,add_item,,,1.856,,,576,data\features\576.npy,117
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_578.wav,manual_578.wav,catat 3 beras,beras,3.0,manual,mujadid,add_item,,,1.728,,,577,data\features\577.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_579.wav,manual_579.wav,catat 3 sabun,sabun,3.0,manual,mujadid,add_item,,,1.856,,,578,data\features\578.npy,117
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_580.wav,manual_580.wav,catat 5 mie,mie,5.0,manual,mujadid,add_item,,,1.6,,,579,data\features\579.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_581.wav,manual_581.wav,catat 1 susu,susu,1.0,manual,mujadid,add_item,,,2.048,,,580,data\features\580.npy,129
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_582.wav,manual_582.wav,catat 1 mie,mie,1.0,manual,mujadid,add_item,,,1.632,,,581,data\features\581.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_583.wav,manual_583.wav,catat 5 mie,mie,5.0,manual,mujadid,add_item,,,1.664,,,582,data\features\582.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_584.wav,manual_584.wav,catat 2 teh,teh,2.0,manual,mujadid,add_item,,,1.568,,,583,data\features\583.npy,99
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_585.wav,manual_585.wav,catat 1 gula,gula,1.0,manual,mujadid,add_item,,,1.696,,,584,data\features\584.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_586.wav,manual_586.wav,catat 1 telur,telur,1.0,manual,mujadid,add_item,,,1.6,,,585,data\features\585.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_587.wav,manual_587.wav,catat 5 kopi,kopi,5.0,manual,mujadid,add_item,,,1.696,,,586,data\features\586.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_588.wav,manual_588.wav,catat 2 sabun,sabun,2.0,manual,mujadid,add_item,,,1.696,,,587,data\features\587.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_589.wav,manual_589.wav,catat 2 beras,beras,2.0,manual,mujadid,add_item,,,1.92,,,588,data\features\588.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_590.wav,manual_590.wav,catat 4 air mineral,air mineral,4.0,manual,mujadid,add_item,,,2.624,,,589,data\features\589.npy,165
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_591.wav,manual_591.wav,catat 4 minyak,minyak,4.0,manual,mujadid,add_item,,,1.664,,,590,data\features\590.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_592.wav,manual_592.wav,catat 1 sabun,sabun,1.0,manual,mujadid,add_item,,,1.632,,,591,data\features\591.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_593.wav,manual_593.wav,catat 4 teh,teh,4.0,manual,mujadid,add_item,,,1.504,,,592,data\features\592.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_594.wav,manual_594.wav,catat 5 beras,beras,5.0,manual,mujadid,add_item,,,1.696,,,593,data\features\593.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_595.wav,manual_595.wav,catat 1 minyak,minyak,1.0,manual,mujadid,add_item,,,1.6,,,594,data\features\594.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_596.wav,manual_596.wav,catat 3 teh,teh,3.0,manual,mujadid,add_item,,,1.632,,,595,data\features\595.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_597.wav,manual_597.wav,catat 5 gula,gula,5.0,manual,mujadid,add_item,,,1.76,,,596,data\features\596.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_598.wav,manual_598.wav,catat 2 teh,teh,2.0,manual,mujadid,add_item,,,1.632,,,597,data\features\597.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_599.wav,manual_599.wav,catat 3 minyak,minyak,3.0,manual,mujadid,add_item,,,1.952,,,598,data\features\598.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_600.wav,manual_600.wav,catat 5 minyak,minyak,5.0,manual,mujadid,add_item,,,2.104,,,599,data\features\599.npy,132
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_601.wav,manual_601.wav,catat 5 susu,susu,5.0,manual,mujadid,add_item,,,1.76,,,600,data\features\600.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_602.wav,manual_602.wav,catat 4 air mineral,air mineral,4.0,manual,mujadid,add_item,,,2.4,,,601,data\features\601.npy,151
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_603.wav,manual_603.wav,catat 3 mie,mie,3.0,manual,mujadid,add_item,,,1.728,,,602,data\features\602.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_604.wav,manual_604.wav,catat 1 mie,mie,1.0,manual,mujadid,add_item,,,1.6,,,603,data\features\603.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_605.wav,manual_605.wav,catat 1 minyak,minyak,1.0,manual,mujadid,add_item,,,1.728,,,604,data\features\604.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_606.wav,manual_606.wav,catat 2 sabun,sabun,2.0,manual,mujadid,add_item,,,1.76,,,605,data\features\605.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_607.wav,manual_607.wav,catat 4 telur,telur,4.0,manual,mujadid,add_item,,,1.92,,,606,data\features\606.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_608.wav,manual_608.wav,catat 4 teh,teh,4.0,manual,mujadid,add_item,,,1.984,,,607,data\features\607.npy,125
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_609.wav,manual_609.wav,catat 3 kopi,kopi,3.0,manual,mujadid,add_item,,,1.92,,,608,data\features\608.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_610.wav,manual_610.wav,catat 4 teh,teh,4.0,manual,mujadid,add_item,,,1.792,,,609,data\features\609.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_611.wav,manual_611.wav,catat 3 teh,teh,3.0,manual,mujadid,add_item,,,1.664,,,610,data\features\610.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_612.wav,manual_612.wav,catat 3 sabun,sabun,3.0,manual,mujadid,add_item,,,1.856,,,611,data\features\611.npy,117
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_613.wav,manual_613.wav,catat 1 air mineral,air mineral,1.0,manual,mujadid,add_item,,,2.752,,,612,data\features\612.npy,173
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_614.wav,manual_614.wav,catat 2 teh,teh,2.0,manual,mujadid,add_item,,,1.504,,,613,data\features\613.npy,95
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_615.wav,manual_615.wav,catat 5 gula,gula,5.0,manual,mujadid,add_item,,,1.76,,,614,data\features\614.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_616.wav,manual_616.wav,catat 4 beras,beras,4.0,manual,mujadid,add_item,,,1.728,,,615,data\features\615.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_617.wav,manual_617.wav,catat 2 susu,susu,2.0,manual,mujadid,add_item,,,1.728,,,616,data\features\616.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_618.wav,manual_618.wav,catat 1 telur,telur,1.0,manual,mujadid,add_item,,,1.92,,,617,data\features\617.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_619.wav,manual_619.wav,catat 5 susu,susu,5.0,manual,mujadid,add_item,,,1.76,,,618,data\features\618.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_620.wav,manual_620.wav,catat 1 minyak,minyak,1.0,manual,mujadid,add_item,,,1.76,,,619,data\features\619.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_621.wav,manual_621.wav,catat 3 minyak,minyak,3.0,manual,mujadid,add_item,,,1.76,,,620,data\features\620.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_622.wav,manual_622.wav,catat 4 air mineral,air mineral,4.0,manual,mujadid,add_item,,,2.368,,,621,data\features\621.npy,149
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_623.wav,manual_623.wav,catat 1 telur,telur,1.0,manual,mujadid,add_item,,,2.334,,,622,data\features\622.npy,146
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_624.wav,manual_624.wav,catat 5 air mineral,air mineral,5.0,manual,mujadid,add_item,,,2.336,,,623,data\features\623.npy,147
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_625.wav,manual_625.wav,catat 3 teh,teh,3.0,manual,mujadid,add_item,,,1.632,,,624,data\features\624.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_626.wav,manual_626.wav,catat 3 gula,gula,3.0,manual,mujadid,add_item,,,1.792,,,625,data\features\625.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_627.wav,manual_627.wav,catat 2 telur,telur,2.0,manual,mujadid,add_item,,,1.568,,,626,data\features\626.npy,99
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_628.wav,manual_628.wav,catat 3 susu,susu,3.0,manual,mujadid,add_item,,,1.856,,,627,data\features\627.npy,117
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_629.wav,manual_629.wav,catat 1 sabun,sabun,1.0,manual,mujadid,add_item,,,1.952,,,628,data\features\628.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_630.wav,manual_630.wav,catat 3 teh,teh,3.0,manual,mujadid,add_item,,,1.792,,,629,data\features\629.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_631.wav,manual_631.wav,catat 4 kopi,kopi,4.0,manual,mujadid,add_item,,,1.984,,,630,data\features\630.npy,125
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_632.wav,manual_632.wav,catat 5 kopi,kopi,5.0,manual,mujadid,add_item,,,1.824,,,631,data\features\631.npy,115
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_633.wav,manual_633.wav,catat 1 telur,telur,1.0,manual,mujadid,add_item,,,1.568,,,632,data\features\632.npy,99
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_634.wav,manual_634.wav,catat 4 mie,mie,4.0,manual,mujadid,add_item,,,1.632,,,633,data\features\633.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_635.wav,manual_635.wav,catat 2 mie,mie,2.0,manual,mujadid,add_item,,,1.408,,,634,data\features\634.npy,89
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_636.wav,manual_636.wav,catat 3 susu,susu,3.0,manual,mujadid,add_item,,,1.696,,,635,data\features\635.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_637.wav,manual_637.wav,catat 4 sabun,sabun,4.0,manual,mujadid,add_item,,,2.016,,,636,data\features\636.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_638.wav,manual_638.wav,catat 1 sabun,sabun,1.0,manual,mujadid,add_item,,,1.984,,,637,data\features\637.npy,125
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_639.wav,manual_639.wav,catat 5 minyak,minyak,5.0,manual,mujadid,add_item,,,1.696,,,638,data\features\638.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_640.wav,manual_640.wav,catat 2 air mineral,air mineral,2.0,manual,mujadid,add_item,,,2.208,,,639,data\features\639.npy,139
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_641.wav,manual_641.wav,catat 4 susu,susu,4.0,manual,mujadid,add_item,,,1.952,,,640,data\features\640.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_642.wav,manual_642.wav,catat 3 air mineral,air mineral,3.0,manual,mujadid,add_item,,,2.272,,,641,data\features\641.npy,143
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_643.wav,manual_643.wav,catat 5 teh,teh,5.0,manual,mujadid,add_item,,,1.6,,,642,data\features\642.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_644.wav,manual_644.wav,catat 5 beras,beras,5.0,manual,mujadid,add_item,,,1.728,,,643,data\features\643.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_645.wav,manual_645.wav,catat 1 air mineral,air mineral,1.0,manual,mujadid,add_item,,,2.304,,,644,data\features\644.npy,145
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_646.wav,manual_646.wav,catat 2 minyak,minyak,2.0,manual,mujadid,add_item,,,1.696,,,645,data\features\645.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_647.wav,manual_647.wav,catat 3 teh,teh,3.0,manual,mujadid,add_item,,,1.856,,,646,data\features\646.npy,117
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_648.wav,manual_648.wav,catat 2 susu,susu,2.0,manual,mujadid,add_item,,,1.792,,,647,data\features\647.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_649.wav,manual_649.wav,catat 5 sabun,sabun,5.0,manual,mujadid,add_item,,,1.888,,,648,data\features\648.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_650.wav,manual_650.wav,catat 4 minyak,minyak,4.0,manual,mujadid,add_item,,,1.792,,,649,data\features\649.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_651.wav,manual_651.wav,catat 2 air mineral,air mineral,2.0,manual,deri,add_item,,,1.76,,,650,data\features\650.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_652.wav,manual_652.wav,catat 1 mie,mie,1.0,manual,deri,add_item,,,1.952,,,651,data\features\651.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_653.wav,manual_653.wav,catat 2 susu,susu,2.0,manual,deri,add_item,,,1.824,,,652,data\features\652.npy,115
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_654.wav,manual_654.wav,catat 1 beras,beras,1.0,manual,deri,add_item,,,2.272,,,653,data\features\653.npy,143
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_655.wav,manual_655.wav,catat 5 kopi,kopi,5.0,manual,deri,add_item,,,2.144,,,654,data\features\654.npy,135
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_656.wav,manual_656.wav,catat 4 gula,gula,4.0,manual,deri,add_item,,,1.76,,,655,data\features\655.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_657.wav,manual_657.wav,catat 2 kopi,kopi,2.0,manual,deri,add_item,,,1.984,,,656,data\features\656.npy,125
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_658.wav,manual_658.wav,catat 4 mie,mie,4.0,manual,deri,add_item,,,1.824,,,657,data\features\657.npy,115
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_659.wav,manual_659.wav,catat 3 sabun,sabun,3.0,manual,deri,add_item,,,2.176,,,658,data\features\658.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_660.wav,manual_660.wav,catat 2 teh,teh,2.0,manual,deri,add_item,,,1.76,,,659,data\features\659.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_661.wav,manual_661.wav,catat 5 beras,beras,5.0,manual,deri,add_item,,,2.016,,,660,data\features\660.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_662.wav,manual_662.wav,catat 4 gula,gula,4.0,manual,deri,add_item,,,2.112,,,661,data\features\661.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_663.wav,manual_663.wav,catat 2 mie,mie,2.0,manual,deri,add_item,,,1.792,,,662,data\features\662.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_664.wav,manual_664.wav,catat 4 telur,telur,4.0,manual,deri,add_item,,,1.792,,,663,data\features\663.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_665.wav,manual_665.wav,catat 2 minyak,minyak,2.0,manual,deri,add_item,,,1.728,,,664,data\features\664.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_666.wav,manual_666.wav,catat 4 beras,beras,4.0,manual,deri,add_item,,,2.304,,,665,data\features\665.npy,145
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_667.wav,manual_667.wav,catat 1 susu,susu,1.0,manual,deri,add_item,,,2.24,,,666,data\features\666.npy,141
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_668.wav,manual_668.wav,catat 5 telur,telur,5.0,manual,deri,add_item,,,2.176,,,667,data\features\667.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_669.wav,manual_669.wav,catat 2 sabun,sabun,2.0,manual,deri,add_item,,,2.176,,,668,data\features\668.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_670.wav,manual_670.wav,catat 2 beras,beras,2.0,manual,deri,add_item,,,2.112,,,669,data\features\669.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_671.wav,manual_671.wav,catat 2 beras,beras,2.0,manual,deri,add_item,,,2.112,,,670,data\features\670.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_672.wav,manual_672.wav,catat 3 minyak,minyak,3.0,manual,deri,add_item,,,1.824,,,671,data\features\671.npy,115
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_673.wav,manual_673.wav,catat 2 teh,teh,2.0,manual,deri,add_item,,,1.472,,,672,data\features\672.npy,93
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_674.wav,manual_674.wav,catat 5 beras,beras,5.0,manual,deri,add_item,,,2.208,,,673,data\features\673.npy,139
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_675.wav,manual_675.wav,catat 4 beras,beras,4.0,manual,deri,add_item,,,2.376,,,674,data\features\674.npy,149
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_676.wav,manual_676.wav,catat 1 gula,gula,1.0,manual,deri,add_item,,,2.534,,,675,data\features\675.npy,159
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_677.wav,manual_677.wav,catat 4 mie,mie,4.0,manual,deri,add_item,,,2.618,,,676,data\features\676.npy,164
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_678.wav,manual_678.wav,catat 4 teh,teh,4.0,manual,deri,add_item,,,2.696,,,677,data\features\677.npy,169
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_679.wav,manual_679.wav,catat 5 kopi,kopi,5.0,manual,deri,add_item,,,2.72,,,678,data\features\678.npy,171
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_680.wav,manual_680.wav,catat 4 telur,telur,4.0,manual,deri,add_item,,,2.18,,,679,data\features\679.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_681.wav,manual_681.wav,catat 2 air mineral,air mineral,2.0,manual,deri,add_item,,,2.88,,,680,data\features\680.npy,181
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_682.wav,manual_682.wav,catat 2 kopi,kopi,2.0,manual,deri,add_item,,,2.28,,,681,data\features\681.npy,143
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_683.wav,manual_683.wav,catat 1 minyak,minyak,1.0,manual,deri,add_item,,,2.756,,,682,data\features\682.npy,173
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_684.wav,manual_684.wav,catat 1 telur,telur,1.0,manual,deri,add_item,,,2.558,,,683,data\features\683.npy,160
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_685.wav,manual_685.wav,catat 3 sabun,sabun,3.0,manual,deri,add_item,,,2.324,,,684,data\features\684.npy,146
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_686.wav,manual_686.wav,catat 1 sabun,sabun,1.0,manual,deri,add_item,,,2.846,,,685,data\features\685.npy,178
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_687.wav,manual_687.wav,catat 1 beras,beras,1.0,manual,deri,add_item,,,2.624,,,686,data\features\686.npy,165
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_688.wav,manual_688.wav,catat 5 minyak,minyak,5.0,manual,deri,add_item,,,2.138,,,687,data\features\687.npy,134
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_689.wav,manual_689.wav,catat 3 teh,teh,3.0,manual,deri,add_item,,,2.326,,,688,data\features\688.npy,146
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_690.wav,manual_690.wav,catat 4 telur,telur,4.0,manual,deri,add_item,,,2.458,,,689,data\features\689.npy,154
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_691.wav,manual_691.wav,catat 1 kopi,kopi,1.0,manual,deri,add_item,,,2.232,,,690,data\features\690.npy,140
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_692.wav,manual_692.wav,catat 5 gula,gula,5.0,manual,deri,add_item,,,2.472,,,691,data\features\691.npy,155
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_693.wav,manual_693.wav,catat 1 teh,teh,1.0,manual,deri,add_item,,,2.27,,,692,data\features\692.npy,142
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_694.wav,manual_694.wav,catat 4 gula,gula,4.0,manual,deri,add_item,,,2.58,,,693,data\features\693.npy,162
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_695.wav,manual_695.wav,catat 2 kopi,kopi,2.0,manual,deri,add_item,,,2.44,,,694,data\features\694.npy,153
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_696.wav,manual_696.wav,catat 2 susu,susu,2.0,manual,deri,add_item,,,2.398,,,695,data\features\695.npy,150
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_697.wav,manual_697.wav,catat 3 telur,telur,3.0,manual,deri,add_item,,,2.716,,,696,data\features\696.npy,170
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_698.wav,manual_698.wav,catat 3 minyak,minyak,3.0,manual,deri,add_item,,,2.322,,,697,data\features\697.npy,146
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_699.wav,manual_699.wav,catat 3 minyak,minyak,3.0,manual,deri,add_item,,,2.968,,,698,data\features\698.npy,186
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_700.wav,manual_700.wav,catat 1 susu,susu,1.0,manual,deri,add_item,,,2.36,,,699,data\features\699.npy,148
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_701.wav,manual_701.wav,catat 4 telur,telur,4.0,manual,deri,add_item,,,2.688,,,700,data\features\700.npy,169
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_702.wav,manual_702.wav,catat 3 teh,teh,3.0,manual,deri,add_item,,,2.716,,,701,data\features\701.npy,170
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_703.wav,manual_703.wav,catat 3 mie,mie,3.0,manual,deri,add_item,,,2.66,,,702,data\features\702.npy,167
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_704.wav,manual_704.wav,catat 4 gula,gula,4.0,manual,deri,add_item,,,2.72,,,703,data\features\703.npy,171
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_705.wav,manual_705.wav,catat 5 air mineral,air mineral,5.0,manual,deri,add_item,,,3.068,,,704,data\features\704.npy,192
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_706.wav,manual_706.wav,catat 2 air mineral,air mineral,2.0,manual,deri,add_item,,,2.896,,,705,data\features\705.npy,182
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_707.wav,manual_707.wav,catat 1 teh,teh,1.0,manual,deri,add_item,,,2.254,,,706,data\features\706.npy,141
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_708.wav,manual_708.wav,catat 3 gula,gula,3.0,manual,deri,add_item,,,2.364,,,707,data\features\707.npy,148
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_709.wav,manual_709.wav,catat 5 susu,susu,5.0,manual,deri,add_item,,,2.892,,,708,data\features\708.npy,181
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_710.wav,manual_710.wav,catat 5 susu,susu,5.0,manual,deri,add_item,,,2.864,,,709,data\features\709.npy,180
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_711.wav,manual_711.wav,catat 4 teh,teh,4.0,manual,deri,add_item,,,2.314,,,710,data\features\710.npy,145
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_712.wav,manual_712.wav,catat 1 telur,telur,1.0,manual,deri,add_item,,,2.4,,,711,data\features\711.npy,151
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_713.wav,manual_713.wav,catat 3 beras,beras,3.0,manual,deri,add_item,,,2.72,,,712,data\features\712.npy,171
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_714.wav,manual_714.wav,catat 1 sabun,sabun,1.0,manual,deri,add_item,,,2.804,,,713,data\features\713.npy,176
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_715.wav,manual_715.wav,catat 5 telur,telur,5.0,manual,deri,add_item,,,3.004,,,714,data\features\714.npy,188
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_716.wav,manual_716.wav,catat 3 susu,susu,3.0,manual,deri,add_item,,,2.464,,,715,data\features\715.npy,155
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_717.wav,manual_717.wav,catat 4 minyak,minyak,4.0,manual,deri,add_item,,,2.688,,,716,data\features\716.npy,169
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_718.wav,manual_718.wav,catat 4 susu,susu,4.0,manual,deri,add_item,,,2.684,,,717,data\features\717.npy,168
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_719.wav,manual_719.wav,catat 2 susu,susu,2.0,manual,deri,add_item,,,2.466,,,718,data\features\718.npy,155
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_720.wav,manual_720.wav,catat 5 minyak,minyak,5.0,manual,deri,add_item,,,2.704,,,719,data\features\719.npy,170
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_721.wav,manual_721.wav,catat 1 susu,susu,1.0,manual,deri,add_item,,,2.656,,,720,data\features\720.npy,167
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_722.wav,manual_722.wav,catat 4 air mineral,air mineral,4.0,manual,deri,add_item,,,2.954,,,721,data\features\721.npy,185
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_723.wav,manual_723.wav,catat 3 gula,gula,3.0,manual,deri,add_item,,,2.24,,,722,data\features\722.npy,141
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_724.wav,manual_724.wav,catat 5 minyak,minyak,5.0,manual,deri,add_item,,,2.22,,,723,data\features\723.npy,139
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_725.wav,manual_725.wav,catat 3 minyak,minyak,3.0,manual,deri,add_item,,,2.322,,,724,data\features\724.npy,146
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_726.wav,manual_726.wav,catat 4 gula,gula,4.0,manual,deri,add_item,,,2.804,,,725,data\features\725.npy,176
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_727.wav,manual_727.wav,catat 1 sabun,sabun,1.0,manual,deri,add_item,,,2.39,,,726,data\features\726.npy,150
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_728.wav,manual_728.wav,catat 1 teh,teh,1.0,manual,deri,add_item,,,2.27,,,727,data\features\727.npy,142
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_729.wav,manual_729.wav,catat 4 teh,teh,4.0,manual,deri,add_item,,,2.35,,,728,data\features\728.npy,147
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_730.wav,manual_730.wav,catat 4 gula,gula,4.0,manual,deri,add_item,,,2.304,,,729,data\features\729.npy,145
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_731.wav,manual_731.wav,catat 5 air mineral,air mineral,5.0,manual,deri,add_item,,,3.054,,,730,data\features\730.npy,191
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_732.wav,manual_732.wav,catat 1 gula,gula,1.0,manual,deri,add_item,,,2.368,,,731,data\features\731.npy,149
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_733.wav,manual_733.wav,catat 2 gula,gula,2.0,manual,deri,add_item,,,2.464,,,732,data\features\732.npy,155
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_734.wav,manual_734.wav,catat 3 teh,teh,3.0,manual,deri,add_item,,,2.246,,,733,data\features\733.npy,141
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_735.wav,manual_735.wav,catat 3 mie,mie,3.0,manual,deri,add_item,,,3.024,,,734,data\features\734.npy,190
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_736.wav,manual_736.wav,catat 1 telur,telur,1.0,manual,deri,add_item,,,2.518,,,735,data\features\735.npy,158
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_737.wav,manual_737.wav,catat 4 telur,telur,4.0,manual,deri,add_item,,,2.508,,,736,data\features\736.npy,157
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_738.wav,manual_738.wav,catat 2 minyak,minyak,2.0,manual,deri,add_item,,,2.402,,,737,data\features\737.npy,151
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_739.wav,manual_739.wav,catat 1 teh,teh,1.0,manual,deri,add_item,,,2.428,,,738,data\features\738.npy,152
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_740.wav,manual_740.wav,catat 1 susu,susu,1.0,manual,deri,add_item,,,2.188,,,739,data\features\739.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_741.wav,manual_741.wav,catat 3 beras,beras,3.0,manual,deri,add_item,,,3.044,,,740,data\features\740.npy,191
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_742.wav,manual_742.wav,catat 3 mie,mie,3.0,manual,deri,add_item,,,2.348,,,741,data\features\741.npy,147
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_743.wav,manual_743.wav,catat 5 beras,beras,5.0,manual,deri,add_item,,,2.854,,,742,data\features\742.npy,179
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_744.wav,manual_744.wav,catat 4 susu,susu,4.0,manual,deri,add_item,,,2.518,,,743,data\features\743.npy,158
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_745.wav,manual_745.wav,catat 4 sabun,sabun,4.0,manual,deri,add_item,,,2.646,,,744,data\features\744.npy,166
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_746.wav,manual_746.wav,catat 3 sabun,sabun,3.0,manual,deri,add_item,,,2.702,,,745,data\features\745.npy,169
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_747.wav,manual_747.wav,catat 5 sabun,sabun,5.0,manual,deri,add_item,,,2.39,,,746,data\features\746.npy,150
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_748.wav,manual_748.wav,catat 4 teh,teh,4.0,manual,deri,add_item,,,2.392,,,747,data\features\747.npy,150
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_749.wav,manual_749.wav,catat 5 air mineral,air mineral,5.0,manual,deri,add_item,,,2.854,,,748,data\features\748.npy,179
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_750.wav,manual_750.wav,catat 5 sabun,sabun,5.0,manual,deri,add_item,,,3.414,,,749,data\features\749.npy,214
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_751.wav,manual_751.wav,catat 2 sabun,sabun,2.0,manual,jimnas,add_item,,,2.368,,,750,data\features\750.npy,149
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_752.wav,manual_752.wav,catat 1 minyak,minyak,1.0,manual,jimnas,add_item,,,2.912,,,751,data\features\751.npy,183
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_753.wav,manual_753.wav,catat 3 air mineral,air mineral,3.0,manual,jimnas,add_item,,,2.912,,,752,data\features\752.npy,183
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_754.wav,manual_754.wav,catat 5 susu,susu,5.0,manual,jimnas,add_item,,,1.44,,,753,data\features\753.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_755.wav,manual_755.wav,catat 1 telur,telur,1.0,manual,jimnas,add_item,,,1.344,,,754,data\features\754.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_756.wav,manual_756.wav,catat 3 susu,susu,3.0,manual,jimnas,add_item,,,2.24,,,755,data\features\755.npy,141
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_757.wav,manual_757.wav,catat 2 susu,susu,2.0,manual,jimnas,add_item,,,2.51,,,756,data\features\756.npy,157
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_758.wav,manual_758.wav,catat 3 telur,telur,3.0,manual,jimnas,add_item,,,1.984,,,757,data\features\757.npy,125
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_759.wav,manual_759.wav,catat 3 kopi,kopi,3.0,manual,jimnas,add_item,,,3.628,,,758,data\features\758.npy,227
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_760.wav,manual_760.wav,catat 3 telur,telur,3.0,manual,jimnas,add_item,,,4.15,,,759,data\features\759.npy,260
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_761.wav,manual_761.wav,catat 3 susu,susu,3.0,manual,jimnas,add_item,,,3.04,,,760,data\features\760.npy,191
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_762.wav,manual_762.wav,catat 3 minyak,minyak,3.0,manual,jimnas,add_item,,,2.048,,,761,data\features\761.npy,129
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_763.wav,manual_763.wav,catat 5 teh,teh,5.0,manual,jimnas,add_item,,,3.008,,,762,data\features\762.npy,189
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_764.wav,manual_764.wav,catat 2 sabun,sabun,2.0,manual,jimnas,add_item,,,2.026,,,763,data\features\763.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_765.wav,manual_765.wav,catat 4 mie,mie,4.0,manual,jimnas,add_item,,,2.912,,,764,data\features\764.npy,183
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_766.wav,manual_766.wav,catat 1 gula,gula,1.0,manual,jimnas,add_item,,,3.52,,,765,data\features\765.npy,221
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_767.wav,manual_767.wav,catat 1 beras,beras,1.0,manual,jimnas,add_item,,,2.816,,,766,data\features\766.npy,177
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_768.wav,manual_768.wav,catat 5 beras,beras,5.0,manual,jimnas,add_item,,,2.766,,,767,data\features\767.npy,173
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_769.wav,manual_769.wav,catat 5 gula,gula,5.0,manual,jimnas,add_item,,,2.458,,,768,data\features\768.npy,154
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_770.wav,manual_770.wav,catat 2 mie,mie,2.0,manual,jimnas,add_item,,,2.48,,,769,data\features\769.npy,156
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_771.wav,manual_771.wav,catat 1 beras,beras,1.0,manual,jimnas,add_item,,,3.09,,,770,data\features\770.npy,194
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_772.wav,manual_772.wav,catat 5 kopi,kopi,5.0,manual,jimnas,add_item,,,3.328,,,771,data\features\771.npy,209
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_773.wav,manual_773.wav,catat 3 minyak,minyak,3.0,manual,jimnas,add_item,,,2.158,,,772,data\features\772.npy,135
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_774.wav,manual_774.wav,catat 1 susu,susu,1.0,manual,jimnas,add_item,,,3.19,,,773,data\features\773.npy,200
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_775.wav,manual_775.wav,catat 5 gula,gula,5.0,manual,jimnas,add_item,,,1.952,,,774,data\features\774.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_776.wav,manual_776.wav,catat 5 susu,susu,5.0,manual,jimnas,add_item,,,3.008,,,775,data\features\775.npy,189
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_777.wav,manual_777.wav,catat 2 susu,susu,2.0,manual,jimnas,add_item,,,1.856,,,776,data\features\776.npy,117
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_778.wav,manual_778.wav,catat 3 telur,telur,3.0,manual,jimnas,add_item,,,2.094,,,777,data\features\777.npy,131
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_779.wav,manual_779.wav,catat 3 beras,beras,3.0,manual,jimnas,add_item,,,3.264,,,778,data\features\778.npy,205
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_780.wav,manual_780.wav,catat 5 sabun,sabun,5.0,manual,jimnas,add_item,,,1.92,,,779,data\features\779.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_781.wav,manual_781.wav,catat 5 susu,susu,5.0,manual,jimnas,add_item,,,2.24,,,780,data\features\780.npy,141
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_782.wav,manual_782.wav,catat 2 kopi,kopi,2.0,manual,jimnas,add_item,,,2.172,,,781,data\features\781.npy,136
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_783.wav,manual_783.wav,catat 5 gula,gula,5.0,manual,jimnas,add_item,,,1.386,,,782,data\features\782.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_784.wav,manual_784.wav,catat 5 telur,telur,5.0,manual,jimnas,add_item,,,2.912,,,783,data\features\783.npy,183
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_785.wav,manual_785.wav,catat 4 beras,beras,4.0,manual,jimnas,add_item,,,1.728,,,784,data\features\784.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_786.wav,manual_786.wav,catat 4 gula,gula,4.0,manual,jimnas,add_item,,,1.756,,,785,data\features\785.npy,110
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_787.wav,manual_787.wav,catat 2 gula,gula,2.0,manual,jimnas,add_item,,,1.794,,,786,data\features\786.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_788.wav,manual_788.wav,catat 5 minyak,minyak,5.0,manual,jimnas,add_item,,,2.912,,,787,data\features\787.npy,183
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_789.wav,manual_789.wav,catat 2 teh,teh,2.0,manual,jimnas,add_item,,,2.88,,,788,data\features\788.npy,181
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_790.wav,manual_790.wav,catat 4 telur,telur,4.0,manual,jimnas,add_item,,,1.792,,,789,data\features\789.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_791.wav,manual_791.wav,catat 1 mie,mie,1.0,manual,jimnas,add_item,,,2.784,,,790,data\features\790.npy,175
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_792.wav,manual_792.wav,catat 4 air mineral,air mineral,4.0,manual,jimnas,add_item,,,2.994,,,791,data\features\791.npy,188
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_793.wav,manual_793.wav,catat 4 mie,mie,4.0,manual,jimnas,add_item,,,4.0,,,792,data\features\792.npy,251
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_794.wav,manual_794.wav,catat 1 mie,mie,1.0,manual,jimnas,add_item,,,2.636,,,793,data\features\793.npy,165
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_795.wav,manual_795.wav,catat 2 telur,telur,2.0,manual,jimnas,add_item,,,3.136,,,794,data\features\794.npy,197
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_796.wav,manual_796.wav,catat 4 teh,teh,4.0,manual,jimnas,add_item,,,3.104,,,795,data\features\795.npy,195
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_797.wav,manual_797.wav,catat 5 sabun,sabun,5.0,manual,jimnas,add_item,,,2.304,,,796,data\features\796.npy,145
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_798.wav,manual_798.wav,catat 3 kopi,kopi,3.0,manual,jimnas,add_item,,,2.854,,,797,data\features\797.npy,179
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_799.wav,manual_799.wav,catat 1 mie,mie,1.0,manual,jimnas,add_item,,,3.686,,,798,data\features\798.npy,231
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_800.wav,manual_800.wav,catat 3 air mineral,air mineral,3.0,manual,jimnas,add_item,,,4.128,,,799,data\features\799.npy,259
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_801.wav,manual_801.wav,catat 3 beras,beras,3.0,manual,jimnas,add_item,,,1.954,,,800,data\features\800.npy,123
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_802.wav,manual_802.wav,catat 4 sabun,sabun,4.0,manual,jimnas,add_item,,,2.592,,,801,data\features\801.npy,163
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_803.wav,manual_803.wav,catat 1 mie,mie,1.0,manual,jimnas,add_item,,,1.624,,,802,data\features\802.npy,102
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_804.wav,manual_804.wav,catat 5 teh,teh,5.0,manual,jimnas,add_item,,,2.784,,,803,data\features\803.npy,175
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_805.wav,manual_805.wav,catat 2 sabun,sabun,2.0,manual,jimnas,add_item,,,1.92,,,804,data\features\804.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_806.wav,manual_806.wav,catat 5 air mineral,air mineral,5.0,manual,jimnas,add_item,,,2.848,,,805,data\features\805.npy,179
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_807.wav,manual_807.wav,catat 1 mie,mie,1.0,manual,jimnas,add_item,,,1.664,,,806,data\features\806.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_808.wav,manual_808.wav,catat 1 telur,telur,1.0,manual,jimnas,add_item,,,1.664,,,807,data\features\807.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_809.wav,manual_809.wav,catat 4 teh,teh,4.0,manual,jimnas,add_item,,,2.098,,,808,data\features\808.npy,132
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_810.wav,manual_810.wav,catat 3 sabun,sabun,3.0,manual,jimnas,add_item,,,4.41,,,809,data\features\809.npy,276
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_811.wav,manual_811.wav,catat 3 gula,gula,3.0,manual,jimnas,add_item,,,3.17,,,810,data\features\810.npy,199
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_812.wav,manual_812.wav,catat 1 kopi,kopi,1.0,manual,jimnas,add_item,,,3.41,,,811,data\features\811.npy,214
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_813.wav,manual_813.wav,catat 4 kopi,kopi,4.0,manual,jimnas,add_item,,,3.52,,,812,data\features\812.npy,221
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_814.wav,manual_814.wav,catat 3 gula,gula,3.0,manual,jimnas,add_item,,,2.144,,,813,data\features\813.npy,135
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_815.wav,manual_815.wav,catat 1 sabun,sabun,1.0,manual,jimnas,add_item,,,2.016,,,814,data\features\814.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_816.wav,manual_816.wav,catat 1 telur,telur,1.0,manual,jimnas,add_item,,,2.656,,,815,data\features\815.npy,167
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_817.wav,manual_817.wav,catat 1 air mineral,air mineral,1.0,manual,jimnas,add_item,,,2.4,,,816,data\features\816.npy,151
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_818.wav,manual_818.wav,catat 1 teh,teh,1.0,manual,jimnas,add_item,,,2.016,,,817,data\features\817.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_819.wav,manual_819.wav,catat 3 beras,beras,3.0,manual,jimnas,add_item,,,2.176,,,818,data\features\818.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_820.wav,manual_820.wav,catat 5 beras,beras,5.0,manual,jimnas,add_item,,,2.048,,,819,data\features\819.npy,129
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_821.wav,manual_821.wav,catat 1 mie,mie,1.0,manual,jimnas,add_item,,,2.592,,,820,data\features\820.npy,163
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_822.wav,manual_822.wav,catat 1 kopi,kopi,1.0,manual,jimnas,add_item,,,2.432,,,821,data\features\821.npy,153
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_823.wav,manual_823.wav,catat 1 gula,gula,1.0,manual,jimnas,add_item,,,2.432,,,822,data\features\822.npy,153
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_824.wav,manual_824.wav,catat 5 telur,telur,5.0,manual,jimnas,add_item,,,1.344,,,823,data\features\823.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_825.wav,manual_825.wav,catat 3 teh,teh,3.0,manual,jimnas,add_item,,,1.344,,,824,data\features\824.npy,85
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_826.wav,manual_826.wav,catat 5 kopi,kopi,5.0,manual,jimnas,add_item,,,2.048,,,825,data\features\825.npy,129
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_827.wav,manual_827.wav,catat 3 beras,beras,3.0,manual,jimnas,add_item,,,2.08,,,826,data\features\826.npy,131
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_828.wav,manual_828.wav,catat 4 air mineral,air mineral,4.0,manual,jimnas,add_item,,,2.336,,,827,data\features\827.npy,147
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_829.wav,manual_829.wav,catat 2 air mineral,air mineral,2.0,manual,jimnas,add_item,,,2.528,,,828,data\features\828.npy,159
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_830.wav,manual_830.wav,catat 2 beras,beras,2.0,manual,jimnas,add_item,,,1.92,,,829,data\features\829.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_831.wav,manual_831.wav,catat 2 teh,teh,2.0,manual,jimnas,add_item,,,1.888,,,830,data\features\830.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_832.wav,manual_832.wav,catat 5 mie,mie,5.0,manual,jimnas,add_item,,,1.856,,,831,data\features\831.npy,117
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_833.wav,manual_833.wav,catat 4 gula,gula,4.0,manual,jimnas,add_item,,,2.144,,,832,data\features\832.npy,135
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_834.wav,manual_834.wav,catat 4 beras,beras,4.0,manual,jimnas,add_item,,,1.856,,,833,data\features\833.npy,117
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_835.wav,manual_835.wav,catat 4 beras,beras,4.0,manual,jimnas,add_item,,,2.848,,,834,data\features\834.npy,179
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_836.wav,manual_836.wav,catat 4 sabun,sabun,4.0,manual,jimnas,add_item,,,2.112,,,835,data\features\835.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_837.wav,manual_837.wav,catat 5 kopi,kopi,5.0,manual,jimnas,add_item,,,2.048,,,836,data\features\836.npy,129
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_838.wav,manual_838.wav,catat 1 teh,teh,1.0,manual,jimnas,add_item,,,1.888,,,837,data\features\837.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_839.wav,manual_839.wav,catat 3 susu,susu,3.0,manual,jimnas,add_item,,,2.03,,,838,data\features\838.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_840.wav,manual_840.wav,catat 2 sabun,sabun,2.0,manual,jimnas,add_item,,,3.296,,,839,data\features\839.npy,207
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_841.wav,manual_841.wav,catat 1 air mineral,air mineral,1.0,manual,jimnas,add_item,,,3.52,,,840,data\features\840.npy,221
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_842.wav,manual_842.wav,catat 1 mie,mie,1.0,manual,jimnas,add_item,,,2.144,,,841,data\features\841.npy,135
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_843.wav,manual_843.wav,catat 3 teh,teh,3.0,manual,jimnas,add_item,,,2.016,,,842,data\features\842.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_844.wav,manual_844.wav,catat 4 telur,telur,4.0,manual,jimnas,add_item,,,1.984,,,843,data\features\843.npy,125
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_845.wav,manual_845.wav,catat 1 beras,beras,1.0,manual,jimnas,add_item,,,2.112,,,844,data\features\844.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_846.wav,manual_846.wav,catat 1 beras,beras,1.0,manual,jimnas,add_item,,,2.048,,,845,data\features\845.npy,129
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_847.wav,manual_847.wav,catat 5 telur,telur,5.0,manual,jimnas,add_item,,,2.624,,,846,data\features\846.npy,165
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_848.wav,manual_848.wav,catat 5 kopi,kopi,5.0,manual,jimnas,add_item,,,2.176,,,847,data\features\847.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_849.wav,manual_849.wav,catat 3 sabun,sabun,3.0,manual,jimnas,add_item,,,2.208,,,848,data\features\848.npy,139
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_850.wav,manual_850.wav,catat 4 sabun,sabun,4.0,manual,jimnas,add_item,,,2.176,,,849,data\features\849.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_851.wav,manual_851.wav,catat 3 minyak,minyak,3.0,manual,mujadid,add_item,,,1.558,,,850,data\features\850.npy,98
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_852.wav,manual_852.wav,catat 3 susu,susu,3.0,manual,mujadid,add_item,,,1.75,,,851,data\features\851.npy,110
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_853.wav,manual_853.wav,catat 4 beras,beras,4.0,manual,mujadid,add_item,,,2.336,,,852,data\features\852.npy,147
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_854.wav,manual_854.wav,catat 1 mie,mie,1.0,manual,mujadid,add_item,,,1.6,,,853,data\features\853.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_855.wav,manual_855.wav,catat 5 teh,teh,5.0,manual,mujadid,add_item,,,1.536,,,854,data\features\854.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_856.wav,manual_856.wav,catat 4 mie,mie,4.0,manual,mujadid,add_item,,,2.476,,,855,data\features\855.npy,155
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_857.wav,manual_857.wav,catat 3 teh,teh,3.0,manual,mujadid,add_item,,,1.376,,,856,data\features\856.npy,87
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_858.wav,manual_858.wav,catat 4 gula,gula,4.0,manual,mujadid,add_item,,,1.76,,,857,data\features\857.npy,111
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_859.wav,manual_859.wav,catat 2 sabun,sabun,2.0,manual,mujadid,add_item,,,1.984,,,858,data\features\858.npy,125
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_860.wav,manual_860.wav,catat 2 air mineral,air mineral,2.0,manual,mujadid,add_item,,,2.432,,,859,data\features\859.npy,153
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_861.wav,manual_861.wav,catat 1 susu,susu,1.0,manual,mujadid,add_item,,,2.112,,,860,data\features\860.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_862.wav,manual_862.wav,catat 4 teh,teh,4.0,manual,mujadid,add_item,,,1.568,,,861,data\features\861.npy,99
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_863.wav,manual_863.wav,catat 3 minyak,minyak,3.0,manual,mujadid,add_item,,,2.098,,,862,data\features\862.npy,132
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_864.wav,manual_864.wav,catat 2 telur,telur,2.0,manual,mujadid,add_item,,,1.724,,,863,data\features\863.npy,108
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_865.wav,manual_865.wav,catat 5 beras,beras,5.0,manual,mujadid,add_item,,,1.632,,,864,data\features\864.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_866.wav,manual_866.wav,catat 3 mie,mie,3.0,manual,mujadid,add_item,,,1.776,,,865,data\features\865.npy,112
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_867.wav,manual_867.wav,catat 5 air mineral,air mineral,5.0,manual,mujadid,add_item,,,2.476,,,866,data\features\866.npy,155
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_868.wav,manual_868.wav,catat 5 mie,mie,5.0,manual,mujadid,add_item,,,1.91,,,867,data\features\867.npy,120
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_869.wav,manual_869.wav,catat 1 teh,teh,1.0,manual,mujadid,add_item,,,1.666,,,868,data\features\868.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_870.wav,manual_870.wav,catat 3 telur,telur,3.0,manual,mujadid,add_item,,,1.888,,,869,data\features\869.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_871.wav,manual_871.wav,catat 4 beras,beras,4.0,manual,mujadid,add_item,,,1.664,,,870,data\features\870.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_872.wav,manual_872.wav,catat 2 telur,telur,2.0,manual,mujadid,add_item,,,1.6,,,871,data\features\871.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_873.wav,manual_873.wav,catat 5 beras,beras,5.0,manual,mujadid,add_item,,,1.728,,,872,data\features\872.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_874.wav,manual_874.wav,catat 2 kopi,kopi,2.0,manual,mujadid,add_item,,,1.6,,,873,data\features\873.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_875.wav,manual_875.wav,catat 3 susu,susu,3.0,manual,mujadid,add_item,,,1.856,,,874,data\features\874.npy,117
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_876.wav,manual_876.wav,catat 3 air mineral,air mineral,3.0,manual,mujadid,add_item,,,2.336,,,875,data\features\875.npy,147
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_877.wav,manual_877.wav,catat 1 telur,telur,1.0,manual,mujadid,add_item,,,1.664,,,876,data\features\876.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_878.wav,manual_878.wav,catat 5 sabun,sabun,5.0,manual,mujadid,add_item,,,1.728,,,877,data\features\877.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_879.wav,manual_879.wav,catat 5 beras,beras,5.0,manual,mujadid,add_item,,,1.664,,,878,data\features\878.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_880.wav,manual_880.wav,catat 3 gula,gula,3.0,manual,mujadid,add_item,,,1.696,,,879,data\features\879.npy,107
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_881.wav,manual_881.wav,catat 5 mie,mie,5.0,manual,mujadid,add_item,,,1.44,,,880,data\features\880.npy,91
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_882.wav,manual_882.wav,catat 5 kopi,kopi,5.0,manual,mujadid,add_item,,,1.632,,,881,data\features\881.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_883.wav,manual_883.wav,catat 4 beras,beras,4.0,manual,mujadid,add_item,,,1.888,,,882,data\features\882.npy,119
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_884.wav,manual_884.wav,catat 3 gula,gula,3.0,manual,mujadid,add_item,,,1.6,,,883,data\features\883.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_885.wav,manual_885.wav,catat 2 mie,mie,2.0,manual,mujadid,add_item,,,1.536,,,884,data\features\884.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_886.wav,manual_886.wav,catat 1 sabun,sabun,1.0,manual,mujadid,add_item,,,2.27,,,885,data\features\885.npy,142
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_887.wav,manual_887.wav,catat 2 gula,gula,2.0,manual,mujadid,add_item,,,1.536,,,886,data\features\886.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_888.wav,manual_888.wav,catat 4 air mineral,air mineral,4.0,manual,mujadid,add_item,,,2.336,,,887,data\features\887.npy,147
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_889.wav,manual_889.wav,catat 2 sabun,sabun,2.0,manual,mujadid,add_item,,,1.664,,,888,data\features\888.npy,105
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_890.wav,manual_890.wav,catat 3 sabun,sabun,3.0,manual,mujadid,add_item,,,2.112,,,889,data\features\889.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_891.wav,manual_891.wav,catat 2 minyak,minyak,2.0,manual,mujadid,add_item,,,1.568,,,890,data\features\890.npy,99
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_892.wav,manual_892.wav,catat 2 kopi,kopi,2.0,manual,mujadid,add_item,,,1.942,,,891,data\features\891.npy,122
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_893.wav,manual_893.wav,catat 2 teh,teh,2.0,manual,mujadid,add_item,,,1.632,,,892,data\features\892.npy,103
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_894.wav,manual_894.wav,catat 2 beras,beras,2.0,manual,mujadid,add_item,,,1.536,,,893,data\features\893.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_895.wav,manual_895.wav,catat 5 telur,telur,5.0,manual,mujadid,add_item,,,1.6,,,894,data\features\894.npy,101
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_896.wav,manual_896.wav,catat 2 telur,telur,2.0,manual,mujadid,add_item,,,1.536,,,895,data\features\895.npy,97
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_897.wav,manual_897.wav,catat 1 beras,beras,1.0,manual,mujadid,add_item,,,1.728,,,896,data\features\896.npy,109
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_898.wav,manual_898.wav,catat 1 kopi,kopi,1.0,manual,mujadid,add_item,,,1.824,,,897,data\features\897.npy,115
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_899.wav,manual_899.wav,catat 2 sabun,sabun,2.0,manual,mujadid,add_item,,,1.824,,,898,data\features\898.npy,115
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_900.wav,manual_900.wav,catat 5 mie,mie,5.0,manual,mujadid,add_item,,,1.568,,,899,data\features\899.npy,99
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_901.wav,manual_901.wav,catat 5 susu,susu,5.0,manual,deri,add_item,,,2.24,,,900,data\features\900.npy,141
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_902.wav,manual_902.wav,catat 5 mie,mie,5.0,manual,deri,add_item,,,2.336,,,901,data\features\901.npy,147
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_903.wav,manual_903.wav,catat 2 sabun,sabun,2.0,manual,deri,add_item,,,2.64,,,902,data\features\902.npy,166
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_904.wav,manual_904.wav,catat 4 beras,beras,4.0,manual,deri,add_item,,,2.72,,,903,data\features\903.npy,171
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_905.wav,manual_905.wav,catat 4 beras,beras,4.0,manual,deri,add_item,,,2.752,,,904,data\features\904.npy,173
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_906.wav,manual_906.wav,catat 2 air mineral,air mineral,2.0,manual,deri,add_item,,,3.054,,,905,data\features\905.npy,191
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_907.wav,manual_907.wav,catat 5 mie,mie,5.0,manual,deri,add_item,,,3.264,,,906,data\features\906.npy,205
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_908.wav,manual_908.wav,catat 3 telur,telur,3.0,manual,deri,add_item,,,2.72,,,907,data\features\907.npy,171
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_909.wav,manual_909.wav,catat 5 air mineral,air mineral,5.0,manual,deri,add_item,,,3.008,,,908,data\features\908.npy,189
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_910.wav,manual_910.wav,catat 4 air mineral,air mineral,4.0,manual,deri,add_item,,,2.688,,,909,data\features\909.npy,169
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_911.wav,manual_911.wav,catat 1 minyak,minyak,1.0,manual,deri,add_item,,,2.688,,,910,data\features\910.npy,169
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_912.wav,manual_912.wav,catat 1 teh,teh,1.0,manual,deri,add_item,,,2.112,,,911,data\features\911.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_913.wav,manual_913.wav,catat 2 gula,gula,2.0,manual,deri,add_item,,,2.12,,,912,data\features\912.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_914.wav,manual_914.wav,catat 4 air mineral,air mineral,4.0,manual,deri,add_item,,,2.994,,,913,data\features\913.npy,188
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_915.wav,manual_915.wav,catat 2 mie,mie,2.0,manual,deri,add_item,,,2.944,,,914,data\features\914.npy,185
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_916.wav,manual_916.wav,catat 1 mie,mie,1.0,manual,deri,add_item,,,2.272,,,915,data\features\915.npy,143
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_917.wav,manual_917.wav,catat 4 sabun,sabun,4.0,manual,deri,add_item,,,2.432,,,916,data\features\916.npy,153
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_918.wav,manual_918.wav,catat 5 air mineral,air mineral,5.0,manual,deri,add_item,,,3.2,,,917,data\features\917.npy,201
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_919.wav,manual_919.wav,catat 3 teh,teh,3.0,manual,deri,add_item,,,1.92,,,918,data\features\918.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_920.wav,manual_920.wav,catat 2 telur,telur,2.0,manual,deri,add_item,,,2.304,,,919,data\features\919.npy,145
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_921.wav,manual_921.wav,catat 1 telur,telur,1.0,manual,deri,add_item,,,2.32,,,920,data\features\920.npy,146
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_922.wav,manual_922.wav,catat 1 sabun,sabun,1.0,manual,deri,add_item,,,3.05,,,921,data\features\921.npy,191
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_923.wav,manual_923.wav,catat 4 mie,mie,4.0,manual,deri,add_item,,,2.144,,,922,data\features\922.npy,135
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_924.wav,manual_924.wav,catat 5 mie,mie,5.0,manual,deri,add_item,,,2.234,,,923,data\features\923.npy,140
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_925.wav,manual_925.wav,catat 2 gula,gula,2.0,manual,deri,add_item,,,2.816,,,924,data\features\924.npy,177
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_926.wav,manual_926.wav,catat 1 telur,telur,1.0,manual,deri,add_item,,,2.112,,,925,data\features\925.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_927.wav,manual_927.wav,catat 3 mie,mie,3.0,manual,deri,add_item,,,1.92,,,926,data\features\926.npy,121
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_928.wav,manual_928.wav,catat 1 beras,beras,1.0,manual,deri,add_item,,,2.048,,,927,data\features\927.npy,129
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_929.wav,manual_929.wav,catat 1 air mineral,air mineral,1.0,manual,deri,add_item,,,2.944,,,928,data\features\928.npy,185
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_930.wav,manual_930.wav,catat 5 mie,mie,5.0,manual,deri,add_item,,,1.824,,,929,data\features\929.npy,115
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_931.wav,manual_931.wav,catat 2 sabun,sabun,2.0,manual,deri,add_item,,,2.112,,,930,data\features\930.npy,133
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_932.wav,manual_932.wav,catat 1 minyak,minyak,1.0,manual,deri,add_item,,,2.432,,,931,data\features\931.npy,153
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_933.wav,manual_933.wav,catat 5 air mineral,air mineral,5.0,manual,deri,add_item,,,2.58,,,932,data\features\932.npy,162
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_934.wav,manual_934.wav,catat 4 mie,mie,4.0,manual,deri,add_item,,,1.792,,,933,data\features\933.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_935.wav,manual_935.wav,catat 1 telur,telur,1.0,manual,deri,add_item,,,1.984,,,934,data\features\934.npy,125
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_936.wav,manual_936.wav,catat 2 sabun,sabun,2.0,manual,deri,add_item,,,2.17,,,935,data\features\935.npy,136
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_937.wav,manual_937.wav,catat 2 mie,mie,2.0,manual,deri,add_item,,,1.792,,,936,data\features\936.npy,113
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_938.wav,manual_938.wav,catat 3 kopi,kopi,3.0,manual,deri,add_item,,,2.298,,,937,data\features\937.npy,144
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_939.wav,manual_939.wav,catat 1 minyak,minyak,1.0,manual,deri,add_item,,,2.56,,,938,data\features\938.npy,161
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_940.wav,manual_940.wav,catat 1 beras,beras,1.0,manual,deri,add_item,,,2.08,,,939,data\features\939.npy,131
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_941.wav,manual_941.wav,catat 3 teh,teh,3.0,manual,deri,add_item,,,2.016,,,940,data\features\940.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_942.wav,manual_942.wav,catat 1 telur,telur,1.0,manual,deri,add_item,,,2.2,,,941,data\features\941.npy,138
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_943.wav,manual_943.wav,catat 1 minyak,minyak,1.0,manual,deri,add_item,,,2.432,,,942,data\features\942.npy,153
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_944.wav,manual_944.wav,catat 4 kopi,kopi,4.0,manual,deri,add_item,,,2.24,,,943,data\features\943.npy,141
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_945.wav,manual_945.wav,catat 4 susu,susu,4.0,manual,deri,add_item,,,2.814,,,944,data\features\944.npy,176
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_946.wav,manual_946.wav,catat 2 telur,telur,2.0,manual,deri,add_item,,,2.176,,,945,data\features\945.npy,137
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_947.wav,manual_947.wav,catat 1 gula,gula,1.0,manual,deri,add_item,,,2.304,,,946,data\features\946.npy,145
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_948.wav,manual_948.wav,catat 5 air mineral,air mineral,5.0,manual,deri,add_item,,,2.648,,,947,data\features\947.npy,166
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_949.wav,manual_949.wav,catat 2 teh,teh,2.0,manual,deri,add_item,,,2.432,,,948,data\features\948.npy,153
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_950.wav,manual_950.wav,catat 3 beras,beras,3.0,manual,deri,add_item,,,2.016,,,949,data\features\949.npy,127
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_951.wav,manual_951.wav,catat 2 sabun,sabun,2.0,manual,jimnas,add_item,,,2.156,,,950,data\features\950.npy,135
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_952.wav,manual_952.wav,catat 2 sabun,sabun,2.0,manual,jimnas,add_item,,,3.046,,,951,data\features\951.npy,191
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_953.wav,manual_953.wav,catat 4 mie,mie,4.0,manual,jimnas,add_item,,,2.928,,,952,data\features\952.npy,184
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_954.wav,manual_954.wav,catat 1 air mineral,air mineral,1.0,manual,jimnas,add_item,,,3.766,,,953,data\features\953.npy,236
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_955.wav,manual_955.wav,catat 3 kopi,kopi,3.0,manual,jimnas,add_item,,,3.326,,,954,data\features\954.npy,208
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_956.wav,manual_956.wav,catat 3 minyak,minyak,3.0,manual,jimnas,add_item,,,3.706,,,955,data\features\955.npy,232
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_957.wav,manual_957.wav,catat 5 air mineral,air mineral,5.0,manual,jimnas,add_item,,,4.286,,,956,data\features\956.npy,268
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_958.wav,manual_958.wav,catat 2 susu,susu,2.0,manual,jimnas,add_item,,,3.246,,,957,data\features\957.npy,203
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_959.wav,manual_959.wav,catat 1 air mineral,air mineral,1.0,manual,jimnas,add_item,,,4.148,,,958,data\features\958.npy,260
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_960.wav,manual_960.wav,catat 4 beras,beras,4.0,manual,jimnas,add_item,,,3.146,,,959,data\features\959.npy,197
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_961.wav,manual_961.wav,catat 1 telur,telur,1.0,manual,jimnas,add_item,,,3.078,,,960,data\features\960.npy,193
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_962.wav,manual_962.wav,catat 5 minyak,minyak,5.0,manual,jimnas,add_item,,,4.038,,,961,data\features\961.npy,253
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_963.wav,manual_963.wav,catat 4 kopi,kopi,4.0,manual,jimnas,add_item,,,3.386,,,962,data\features\962.npy,212
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_964.wav,manual_964.wav,catat 3 beras,beras,3.0,manual,jimnas,add_item,,,3.476,,,963,data\features\963.npy,218
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_965.wav,manual_965.wav,catat 2 mie,mie,2.0,manual,jimnas,add_item,,,3.136,,,964,data\features\964.npy,197
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_966.wav,manual_966.wav,catat 3 air mineral,air mineral,3.0,manual,jimnas,add_item,,,3.546,,,965,data\features\965.npy,222
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_967.wav,manual_967.wav,catat 2 air mineral,air mineral,2.0,manual,jimnas,add_item,,,4.026,,,966,data\features\966.npy,252
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_968.wav,manual_968.wav,catat 3 susu,susu,3.0,manual,jimnas,add_item,,,3.286,,,967,data\features\967.npy,206
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_969.wav,manual_969.wav,catat 1 minyak,minyak,1.0,manual,jimnas,add_item,,,4.326,,,968,data\features\968.npy,271
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_970.wav,manual_970.wav,catat 3 gula,gula,3.0,manual,jimnas,add_item,,,3.236,,,969,data\features\969.npy,203
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_971.wav,manual_971.wav,catat 5 sabun,sabun,5.0,manual,jimnas,add_item,,,2.856,,,970,data\features\970.npy,179
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_972.wav,manual_972.wav,catat 4 air mineral,air mineral,4.0,manual,jimnas,add_item,,,3.986,,,971,data\features\971.npy,250
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_973.wav,manual_973.wav,catat 2 teh,teh,2.0,manual,jimnas,add_item,,,2.856,,,972,data\features\972.npy,179
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_974.wav,manual_974.wav,catat 2 teh,teh,2.0,manual,jimnas,add_item,,,3.226,,,973,data\features\973.npy,202
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_975.wav,manual_975.wav,catat 1 gula,gula,1.0,manual,jimnas,add_item,,,3.032,,,974,data\features\974.npy,190
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_976.wav,manual_976.wav,catat 5 sabun,sabun,5.0,manual,jimnas,add_item,,,2.954,,,975,data\features\975.npy,185
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_977.wav,manual_977.wav,catat 1 air mineral,air mineral,1.0,manual,jimnas,add_item,,,3.746,,,976,data\features\976.npy,235
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_978.wav,manual_978.wav,catat 4 telur,telur,4.0,manual,jimnas,add_item,,,3.476,,,977,data\features\977.npy,218
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_979.wav,manual_979.wav,catat 5 kopi,kopi,5.0,manual,jimnas,add_item,,,3.556,,,978,data\features\978.npy,223
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_980.wav,manual_980.wav,catat 2 sabun,sabun,2.0,manual,jimnas,add_item,,,3.196,,,979,data\features\979.npy,200
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_981.wav,manual_981.wav,catat 2 air mineral,air mineral,2.0,manual,jimnas,add_item,,,3.276,,,980,data\features\980.npy,205
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_982.wav,manual_982.wav,catat 4 susu,susu,4.0,manual,jimnas,add_item,,,3.666,,,981,data\features\981.npy,230
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_983.wav,manual_983.wav,catat 3 minyak,minyak,3.0,manual,jimnas,add_item,,,2.816,,,982,data\features\982.npy,177
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_984.wav,manual_984.wav,catat 4 telur,telur,4.0,manual,jimnas,add_item,,,2.888,,,983,data\features\983.npy,181
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_985.wav,manual_985.wav,catat 3 mie,mie,3.0,manual,jimnas,add_item,,,2.874,,,984,data\features\984.npy,180
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_986.wav,manual_986.wav,catat 5 air mineral,air mineral,5.0,manual,jimnas,add_item,,,2.856,,,985,data\features\985.npy,179
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_987.wav,manual_987.wav,catat 5 teh,teh,5.0,manual,jimnas,add_item,,,2.436,,,986,data\features\986.npy,153
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_988.wav,manual_988.wav,catat 3 gula,gula,3.0,manual,jimnas,add_item,,,2.296,,,987,data\features\987.npy,144
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_989.wav,manual_989.wav,catat 2 telur,telur,2.0,manual,jimnas,add_item,,,2.368,,,988,data\features\988.npy,149
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_990.wav,manual_990.wav,catat 2 telur,telur,2.0,manual,jimnas,add_item,,,2.376,,,989,data\features\989.npy,149
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_991.wav,manual_991.wav,catat 2 susu,susu,2.0,manual,jimnas,add_item,,,2.282,,,990,data\features\990.npy,143
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_992.wav,manual_992.wav,catat 3 mie,mie,3.0,manual,jimnas,add_item,,,2.286,,,991,data\features\991.npy,143
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_993.wav,manual_993.wav,catat 3 air mineral,air mineral,3.0,manual,jimnas,add_item,,,3.006,,,992,data\features\992.npy,188
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_994.wav,manual_994.wav,catat 5 gula,gula,5.0,manual,jimnas,add_item,,,2.286,,,993,data\features\993.npy,143
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_995.wav,manual_995.wav,catat 2 gula,gula,2.0,manual,jimnas,add_item,,,2.874,,,994,data\features\994.npy,180
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_996.wav,manual_996.wav,catat 5 gula,gula,5.0,manual,jimnas,add_item,,,2.346,,,995,data\features\995.npy,147
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_997.wav,manual_997.wav,catat 4 susu,susu,4.0,manual,jimnas,add_item,,,2.586,,,996,data\features\996.npy,162
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_998.wav,manual_998.wav,catat 2 beras,beras,2.0,manual,jimnas,add_item,,,2.272,,,997,data\features\997.npy,143
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_999.wav,manual_999.wav,catat 2 susu,susu,2.0,manual,jimnas,add_item,,,2.674,,,998,data\features\998.npy,168
+M:/ITERA/Semester 7/Deep Learning/Tubes/TTS Google/manual_1000.wav,manual_1000.wav,catat 4 mie,mie,4.0,manual,jimnas,add_item,,,2.946,,,999,data\features\999.npy,185

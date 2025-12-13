@@ -1,0 +1,13 @@
+# Data source configuration
+raw_dir: ../
+metadata_files:
+  - metadata-google-tts.csv
+  - metadata-google-tts-split.csv
+  - label_final_revisi-manual.csv
+output_dir: data/processed
+label_maps:
+  product: data/processed/product2id.json
+  quantity: data/processed/qty2id.json
+min_duration: 0.5
+max_duration: 5.0
+sample_rate: 16000

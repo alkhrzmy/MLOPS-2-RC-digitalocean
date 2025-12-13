@@ -1,0 +1,13 @@
+torch
+librosa
+pandas
+numpy
+pyyaml
+soundfile
+scikit-learn
+matplotlib
+fastapi
+uvicorn
+pytest
+wandb
+optuna

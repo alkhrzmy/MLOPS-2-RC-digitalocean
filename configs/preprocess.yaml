@@ -1,0 +1,10 @@
+# Audio preprocessing parameters
+sample_rate: 16000
+n_mels: 128
+n_fft: 1024
+hop_length: 256
+win_length: 1024
+power: 2.0
+trim_top_db: 30
+normalize: true
+cache_dir: data/features

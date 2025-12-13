@@ -1,0 +1,13 @@
+# Model M2: Transformer without CNN front-end
+model_name: transformer_tiny
+input_proj_dim: 128
+pos_encoding: sinusoidal
+transformer:
+  d_model: 128
+  nhead: 4
+  num_layers: 2
+  dim_feedforward: 256
+  dropout: 0.2
+attention_pool: true
+num_products: 10
+num_quantities: 5

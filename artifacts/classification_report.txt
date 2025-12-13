@@ -1,0 +1,32 @@
+Product head
+              precision    recall  f1-score   support
+
+ air mineral       0.77      0.71      0.74        14
+       beras       0.89      0.73      0.80        11
+        gula       0.20      0.11      0.14         9
+        kopi       0.33      0.12      0.18         8
+         mie       0.88      0.70      0.78        10
+      minyak       0.88      0.78      0.82         9
+       sabun       0.50      0.88      0.64         8
+        susu       0.57      0.67      0.62         6
+         teh       0.73      0.62      0.67        13
+       telur       0.41      0.75      0.53        12
+
+    accuracy                           0.62       100
+   macro avg       0.61      0.61      0.59       100
+weighted avg       0.63      0.62      0.61       100
+
+
+Quantity head
+              precision    recall  f1-score   support
+
+         1.0       0.56      0.71      0.62        14
+         2.0       0.73      0.80      0.76        20
+         3.0       0.59      0.50      0.54        20
+         4.0       0.67      0.80      0.73        20
+         5.0       0.89      0.65      0.76        26
+
+    accuracy                           0.69       100
+   macro avg       0.69      0.69      0.68       100
+weighted avg       0.71      0.69      0.69       100
+
