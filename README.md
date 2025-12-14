@@ -9,7 +9,7 @@ Kerangka tugas besar MLOps untuk SLU retail (produk & quantity) tanpa intent. Fo
 - Kalau entrypoint `slu` belum terdaftar, jalankan lewat `python -m slu.cli ...` (fungsi sama).
 
 ## Dataset & Artefak
-- Sumber metadata/label: `metadata-google-tts.csv`, `metadata-google-tts-split.csv`, `label_final_revisi-manual.csv` (taruh di direktori induk repo ini).
+- Sumber metadata/label: `metadata-google-tts.csv`, `metadata-google-tts-split.csv`, `label_final_revisi-manual.csv`.
 - Output ingest: `data/processed/metadata.csv` dan label maps (`product2id.json`, `qty2id.json`).
 - Output preprocess: `data/features/*.npy` + `metadata_features.csv`.
 - Registry: `artifacts/registry/latest.json` berisi path model, config, metrics.
