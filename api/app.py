@@ -3,6 +3,7 @@ from __future__ import annotations
 import io
 import json
 import time
+import uuid
 from functools import lru_cache
 from pathlib import Path
 from typing import Tuple
@@ -11,9 +12,10 @@ import librosa
 import numpy as np
 import torch
 import yaml
-from fastapi import FastAPI, UploadFile, File, HTTPException
+from fastapi import FastAPI, UploadFile, File, HTTPException, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
+from prometheus_client import CONTENT_TYPE_LATEST, Counter, Summary, generate_latest
 
 from .schema import HealthResponse, PrediksiResponse
 from slu.models.m1_cnn_transformer import CNNTransformerSLU
@@ -25,6 +27,11 @@ DEFAULT_PREPROCESS_CFG = PROJECT_ROOT / "configs" / "preprocess.yaml"
 
 LOG_DIR = PROJECT_ROOT / "logs"
 LOG_DIR.mkdir(parents=True, exist_ok=True)
+
+# Prometheus metrics
+REQUEST_COUNTER = Counter("predict_requests_total", "Total predict requests")
+REQUEST_ERRORS = Counter("predict_errors_total", "Total predict errors")
+REQUEST_LATENCY = Summary("predict_latency_seconds", "Predict latency seconds")
 
 app = FastAPI(
     title="SLU Inference API — Kelompok 2 RC",
@@ -316,7 +323,7 @@ def load_model_cached() -> Tuple[torch.nn.Module, dict, dict, dict, dict]:
     return model, device, product_map, qty_map, {"product": inv_product, "quantity": inv_qty}
 
 
-def load_audio_to_logmel(data: bytes, preprocess_cfg: Path = DEFAULT_PREPROCESS_CFG) -> tuple[np.ndarray, int]:
+def load_audio_to_logmel(data: bytes, preprocess_cfg: Path = DEFAULT_PREPROCESS_CFG) -> tuple[np.ndarray, int, float]:
     cfg = load_yaml(preprocess_cfg)
     sr = cfg.get("sample_rate", 16000)
     trim_top_db = cfg.get("trim_top_db", 30)
@@ -347,7 +354,7 @@ def load_audio_to_logmel(data: bytes, preprocess_cfg: Path = DEFAULT_PREPROCESS_
     logmel = librosa.power_to_db(mel, ref=np.max)
     logmel = (logmel - logmel.mean()) / (logmel.std() + 1e-8)
     frames = logmel.shape[1]
-    return logmel.astype(np.float32), frames
+    return logmel.astype(np.float32), frames, duration
 
 
 def infer(logmel: np.ndarray):
@@ -386,6 +393,8 @@ def health() -> HealthResponse:
 
 @app.post("/predict", response_model=PrediksiResponse)
 async def predict(file: UploadFile = File(...)) -> PrediksiResponse:
+    request_id = str(uuid.uuid4())
+    reg = load_registry()
     allowed_types = {
         "audio/wav",
         "audio/x-wav",
@@ -401,24 +410,34 @@ async def predict(file: UploadFile = File(...)) -> PrediksiResponse:
     data = await file.read()
     t0 = time.perf_counter()
     try:
-        logmel, _ = load_audio_to_logmel(data)
+        logmel, frames, duration = load_audio_to_logmel(data)
         result = infer(logmel)
         latency = time.perf_counter() - t0
+        REQUEST_COUNTER.inc()
+        REQUEST_LATENCY.observe(latency)
         log_event(
             {
                 "event": "predict",
+                "request_id": request_id,
                 "status": "ok",
                 "latency_ms": round(latency * 1000, 2),
+                "audio_duration": round(duration, 3),
+                "mel_mean": round(float(logmel.mean()), 6),
+                "mel_std": round(float(logmel.std()), 6),
+                "frames": int(frames),
                 "product": result["product"],
                 "quantity": result["quantity"],
                 "confidence": result["confidence"],
+                "model_version": reg.get("model_path", "unknown"),
             }
         )
     except Exception as exc:  # pragma: no cover
         latency = time.perf_counter() - t0
+        REQUEST_ERRORS.inc()
         log_event(
             {
                 "event": "predict",
+                "request_id": request_id,
                 "status": "error",
                 "latency_ms": round(latency * 1000, 2),
                 "error": str(exc),
@@ -426,3 +445,8 @@ async def predict(file: UploadFile = File(...)) -> PrediksiResponse:
         )
         raise HTTPException(status_code=400, detail=f"Inference failed: {exc}")
     return PrediksiResponse(product=result["product"], quantity=result["quantity"], confidence=result["confidence"])
+
+
+@app.get("/metrics")
+def metrics() -> Response:
+    return Response(generate_latest(), media_type=CONTENT_TYPE_LATEST)

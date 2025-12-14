@@ -13,3 +13,4 @@ pytest
 wandb
 optuna
 typer
+prometheus-client
