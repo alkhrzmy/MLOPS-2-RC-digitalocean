@@ -1,4 +1,4 @@
-torch==2.2.2+cpu
+torch==2.2.2
 librosa
 pandas
 numpy
