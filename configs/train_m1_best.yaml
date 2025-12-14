@@ -1,0 +1,27 @@
+# Training configuration for M1 (best hyperparameters from Optuna)
+seed: 42
+device: auto
+batch_size: 8
+num_workers: 2
+max_epochs: 30
+learning_rate: 2.7263846041353235e-04
+weight_decay: 1.0341406243564168e-06
+dropout: 0.2
+early_stop_patience: 5
+class_weighting: true
+scheduler:
+  name: cosine
+  warmup_epochs: 2
+log_interval: 10
+val_interval: 1
+checkpoint_dir: artifacts/m1_best
+wandb:
+  enable: true
+  project: slu-mlops
+  run_name: m1_best
+augment:
+  enable: true
+  freq_mask_param: 18
+  time_mask_param: 24
+  time_shift_max: 12
+  noise_std: 0.05

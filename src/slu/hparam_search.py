@@ -118,13 +118,26 @@ def run_hparam_search(
         "max_epochs": max_epochs,
     }
 
+    callbacks = []
+    try:
+        from optuna.integration.wandb import WeightsAndBiasesCallback
+
+        group_name = "hparam-search-m2" if "m2" in Path(model_cfg).stem else "hparam-search-m1"
+        wandb_cb = WeightsAndBiasesCallback(
+            metric_name="val_loss",
+            wandb_kwargs={"project": "slu-mlops", "group": group_name},
+        )
+        callbacks.append(wandb_cb)
+    except Exception as e:  # wandb optional; keep search running without it
+        print(f"[wandb] callback not enabled: {e}")
+
     study = optuna.create_study(
         study_name=study_name,
         storage=storage,
         direction="minimize",
         load_if_exists=True,
     )
-    study.optimize(lambda t: run_trial(t, cfg_paths), n_trials=n_trials)
+    study.optimize(lambda t: run_trial(t, cfg_paths), n_trials=n_trials, callbacks=callbacks)
 
     print("Best trial:")
     best = study.best_trial

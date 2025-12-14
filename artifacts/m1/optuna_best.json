@@ -1,0 +1,60 @@
+{
+  "study_name": "slu-optuna-m1",
+  "best_trial": {
+    "number": 13,
+    "value": 1.6605251026153565,
+    "params": {
+      "learning_rate": 0.00027263846041353235,
+      "weight_decay": 1.0341406243564168e-06,
+      "batch_size": 8
+    }
+  },
+  "top5": [
+    {
+      "number": 13,
+      "value": 1.6605251026153565,
+      "params": {
+        "learning_rate": 0.00027263846041353235,
+        "weight_decay": 1.0341406243564168e-06,
+        "batch_size": 8
+      }
+    },
+    {
+      "number": 3,
+      "value": 1.8722312927246094,
+      "params": {
+        "learning_rate": 0.00024142900293758898,
+        "weight_decay": 0.000683314383729044,
+        "batch_size": 12
+      }
+    },
+    {
+      "number": 8,
+      "value": 2.0905583906173706,
+      "params": {
+        "learning_rate": 0.0001225765565518909,
+        "weight_decay": 1.9860787234389208e-05,
+        "batch_size": 12
+      }
+    },
+    {
+      "number": 11,
+      "value": 2.431559133529663,
+      "params": {
+        "learning_rate": 6.496637296028478e-05,
+        "weight_decay": 0.000794798735411896,
+        "batch_size": 16
+      }
+    },
+    {
+      "number": 2,
+      "value": 3.9150977516174317,
+      "params": {
+        "learning_rate": 0.0035496404884845442,
+        "weight_decay": 0.0003356287588941742,
+        "batch_size": 16
+      }
+    }
+  ],
+  "n_trials": 15
+}

@@ -1,0 +1,15 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+optuna.db
+wandb
+.git
+.github
+.idea
+.vscode
+*.log
+logs
