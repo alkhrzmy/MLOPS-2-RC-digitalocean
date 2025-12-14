@@ -22,7 +22,9 @@ def load_logs(log_path: Path) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-def plot_hist(series: pd.Series, title: str, xlabel: str, outfile: Path, bins: int = 30):
+def plot_hist(series: pd.Series | None, title: str, xlabel: str, outfile: Path, bins: int = 30):
+    if series is None or series.empty:
+        return
     plt.figure(figsize=(8, 5))
     series.dropna().plot(kind="hist", bins=bins, color="#5dd4ff", edgecolor="white")
     plt.title(title)
